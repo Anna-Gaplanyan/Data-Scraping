@@ -1,0 +1,3 @@
+city,country,name,host_since,host_response_rate,host_identity_verified,review,superhost,property_type,accomodates,number_bathroom,number_bedroom,number_beds,rating,price,cleanliness,accuracy,communication,location,check_in,value
+Baghramyan,Armenia,"Дом...милый дом,рядом с Ереваном,free transfer,SIM",2019.0,100.0,Identity verified,13.0,Super host,Entire residential home,8.0,1.0,2.0,4.0,0.0,48.0,,,,,,
+Vagharshapat,Armenia,RICHMIND HOTEL- в гормонии с мыслями,2019.0,,Identity verified,0.0,regular host,Room in hotel,1.0,1.0,1.0,2.0,0.0,23.0,,,,,,

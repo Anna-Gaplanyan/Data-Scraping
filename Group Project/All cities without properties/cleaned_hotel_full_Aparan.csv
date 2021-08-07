@@ -1,0 +1,226 @@
+city,country,name,host_since,host_response_rate,host_identity_verified,review,superhost,property_type,accomodates,number_bathroom,number_bedroom,number_beds,rating,price,cleanliness,accuracy,communication,location,check_in,value
+Tsaghkadzor,Armenia,Snowdrop ❤ of Tsaghkadzor ✔ Self Checkin ✔ Balcony,2016.0,100.0,Identity verified,240.0,Super host,Entire condominium (condo),3.0,1.0,1.0,1.0,5.0,50.0,5.0,5.0,5.0,5.0,5.0,5.0
+Dilijan,Armenia,Cosy and comfortable apartment with a great view,2018.0,100.0,Identity verified,26.0,Super host,Entire rental unit,4.0,2.0,1.0,1.0,4.96,69.0,5.0,5.0,5.0,4.9,5.0,4.9
+Baghramyan,Armenia,"Green paradise near Yerevan,free transfer,SIM cart",2019.0,100.0,Identity verified,13.0,Super host,Entire residential home,8.0,2.5,2.0,3.0,5.0,106.0,4.8,4.9,5.0,5.0,5.0,4.9
+Vagharshapat,Armenia,Art home,2019.0,89.0,Identity verified,6.0,regular host,Entire rental unit,2.0,1.0,1.0,2.0,5.0,14.0,4.7,5.0,5.0,5.0,5.0,5.0
+Tegher,Armenia,Гостьевой домик в горах села Тегер,2015.0,50.0,Identity not verified,26.0,regular host,Entire guest suite,3.0,1.0,1.0,2.0,4.83,25.0,4.8,4.8,4.7,4.8,5.0,4.8
+Dilijan,Armenia,Guesthouse 121,2019.0,100.0,Identity verified,30.0,Super host,Hut,2.0,1.0,1.0,2.0,5.0,35.0,5.0,4.9,5.0,4.8,5.0,4.9
+Yerevan,Armenia,КВАРТИРА В ЭЛИТНОМ ДОМЕ. ELITE APARTMENT,2018.0,100.0,Identity verified,97.0,Super host,Entire rental unit,2.0,1.0,1.0,1.0,4.99,26.0,4.9,5.0,5.0,4.9,5.0,4.9
+Tsaghkadzor,Armenia,Hillside Apartment Tsaghkadzor,2018.0,100.0,Identity verified,7.0,regular host,Entire rental unit,5.0,1.5,1.0,1.0,5.0,25.0,5.0,5.0,5.0,5.0,5.0,5.0
+Gyumri,Armenia,Modern apartment in Gyumri,2013.0,100.0,Identity verified,78.0,Super host,Entire bed and breakfast,3.0,1.0,0.0,3.0,4.94,27.0,4.9,5.0,5.0,4.8,5.0,4.8
+Odzun,Armenia,Private Villa at Odzun Monastery | Առանձնատուն,2015.0,100.0,Identity verified,27.0,Super host,Entire villa,6.0,2.0,2.0,4.0,5.0,13.0,5.0,5.0,5.0,5.0,5.0,5.0
+Gyumri,Armenia,Современная и комфортабельная квартира,2019.0,100.0,Identity not verified,7.0,regular host,Entire rental unit,2.0,1.0,1.0,,4.57,25.0,4.3,4.9,4.3,4.4,4.7,4.6
+Yerevan,Armenia,➤ One BDR apt. with balcony ★ on Moskovyan str.#28,2020.0,94.0,Identity verified,189.0,Super host,Entire rental unit  Inn,3.0,1.0,1.0,1.0,4.78,48.0,4.8,5.0,5.0,5.0,4.9,4.7
+Yerevan,Armenia,The loft apartment in front of the Central Bank,2015.0,100.0,Identity verified,152.0,regular host,Entire loft,3.0,2.5,1.0,2.0,5.0,45.0,4.7,5.0,5.0,5.0,4.7,4.7
+Dzorakap,Armenia,Apple Tree Family House(семейный люкс),2019.0,100.0,Identity verified,1.0,regular host,Entire residential home,6.0,1.0,3.0,8.0,0.0,60.0,,,,,,
+Baghramyan,Armenia,"Дом...милый дом,рядом с Ереваном,free transfer,SIM",2019.0,100.0,Identity verified,13.0,Super host,Entire residential home,8.0,1.0,2.0,4.0,0.0,48.0,,,,,,
+Dilijan,Armenia,Dilijan Town Inn,2015.0,100.0,Identity verified,84.0,regular host,Entire residential home,6.0,1.5,2.0,3.0,4.85,35.0,4.8,4.8,4.9,5.0,4.8,4.8
+Dilijan,Armenia,Jermatun Rustic Wooden Cottage,2021.0,100.0,Identity verified,4.0,regular host,Entire guest suite,6.0,1.0,2.0,4.0,5.0,114.0,5.0,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,➤ One BDR apt. with balcony ★ on Moskovyan str.#28,2020.0,94.0,Identity verified,189.0,Super host,Entire rental unit  Inn,3.0,1.0,1.0,1.0,4.78,48.0,4.8,5.0,5.0,5.0,4.9,4.7
+Yerevan,Armenia,NEW Apartment in the City Center (KTUR apartments),2016.0,100.0,Identity verified,186.0,Super host,Entire rental unit,3.0,1.0,1.0,1.0,4.94,53.0,5.0,5.0,5.0,5.0,4.9,4.9
+Dilijan,Armenia,Dilijan Cottage,2014.0,100.0,Identity verified,18.0,Super host,Entire cottage,4.0,1.0,2.0,4.0,5.0,65.0,4.9,5.0,4.9,5.0,4.9,4.8
+Yerevan,Armenia,КВАРТИРА В ЭЛИТНОМ ДОМЕ. ELITE APARTMENT,2018.0,100.0,Identity verified,97.0,Super host,Entire rental unit,2.0,1.0,1.0,1.0,4.99,26.0,4.9,5.0,5.0,4.9,5.0,4.9
+Yerevan,Armenia,➤ Fifty Shades of Gray ❤︎ on Yekmalyan Str. #1,2020.0,94.0,Identity verified,189.0,Super host,Entire rental unit  Inn,3.0,1.0,0.0,1.0,5.0,62.0,5.0,5.0,5.0,5.0,5.0,5.0
+Dilijan,Armenia,"""Petit Dilijan - Spring""",2014.0,,Identity not verified,31.0,regular host,Entire guesthouse,2.0,1.0,1.0,2.0,0.0,21.0,,,,,,
+Gyumri,Armenia,Современная и комфортабельная квартира,2019.0,100.0,Identity not verified,7.0,regular host,Entire rental unit,2.0,1.0,1.0,,4.57,25.0,4.3,4.9,4.3,4.4,4.7,4.6
+Yerevan,Armenia,1 BDR with nice View on Koghbatsi 16,2020.0,97.0,Identity verified,174.0,Super host,Entire rental unit,4.0,1.0,1.0,1.0,4.93,63.0,4.8,4.9,5.0,5.0,4.9,4.9
+Yerevan,Armenia,❤ of Opera ✔ Netflix ✔ Balcony ✔ Self Check-In,2016.0,100.0,Identity verified,240.0,Super host,Entire rental unit,4.0,1.0,2.0,3.0,5.0,54.0,4.7,4.8,5.0,5.0,5.0,4.8
+Yerevan,Armenia,♥ of Yerevan ✔ Self Checkin ✔ Balcony ✔ Smoking,2016.0,100.0,Identity verified,240.0,Super host,Entire rental unit,4.0,1.0,1.0,1.0,4.95,39.0,4.9,4.9,5.0,4.9,5.0,4.8
+Yerevan,Armenia,Lovely 2-bedroom rental with hot hub in the center,2020.0,100.0,Identity verified,0.0,regular host,Entire rental unit,4.0,2.0,2.0,2.0,0.0,24.0,,,,,,
+Yerevan,Armenia,Stylish 1 BDR on Abovyan street,2020.0,95.0,Identity verified,68.0,Super host,Entire rental unit,3.0,1.0,1.0,1.0,5.0,58.0,4.9,4.7,4.7,5.0,4.6,4.9
+Yerevan,Armenia,Yerevan4you Terrace,2018.0,100.0,Identity verified,193.0,Super host,Entire rental unit,4.0,1.0,1.0,2.0,5.0,75.0,5.0,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,✨ 2-BDR apt. near ✔️ Northern Avenue (New Building),2016.0,100.0,Identity verified,221.0,Super host,Entire rental unit,6.0,2.0,2.0,4.0,4.82,85.0,4.9,5.0,5.0,5.0,5.0,4.9
+Yerevan,Armenia,Yerevan Station Apartment,2017.0,,Identity not verified,14.0,Super host,Entire serviced apartment,3.0,1.0,1.0,1.0,4.92,22.0,4.9,5.0,4.9,4.5,4.8,4.8
+Yerevan,Armenia,➤ One BDR on Republic Square ★ Buzand Str. #17,2020.0,94.0,Identity verified,189.0,Super host,Entire rental unit  Inn,3.0,1.0,1.0,1.0,4.91,52.0,4.6,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,❤ of Opera ✔ Netflix ✔ Balcony ✔ Self Check-In,2016.0,100.0,Identity verified,240.0,Super host,Entire rental unit,4.0,1.0,2.0,3.0,5.0,54.0,4.7,4.8,5.0,5.0,5.0,4.8
+Yerevan,Armenia,➤ Charming View ➢ 19-th floor ★ on Republic Square,2020.0,94.0,Identity verified,189.0,Super host,Entire rental unit  Inn,6.0,2.0,2.0,3.0,4.55,120.0,4.6,4.7,4.8,5.0,5.0,4.5
+Yerevan,Armenia,Уютная квартира в центре Еревана,2017.0,100.0,Identity verified,60.0,regular host,Entire rental unit,4.0,1.0,1.0,1.0,0.0,35.0,,,,,,
+Stepanavan,Armenia,Major's House Boutique Hotel in Stepanavan,2021.0,100.0,Identity verified,0.0,regular host,Room in boutique hotel,2.0,1.0,1.0,1.0,0.0,100.0,,,,,,
+Dilijan,Armenia,Bel Appart,2014.0,,Identity verified,0.0,regular host,Entire condominium (condo),4.0,1.0,1.0,1.0,0.0,85.0,,,,,,
+Yerevan,Armenia,➤ 2 BDR with City View ✦ on Sayat-Nova Ave. #40,2020.0,95.0,Identity verified,42.0,Super host,Entire rental unit  Inn,5.0,1.5,2.0,3.0,0.0,61.0,,,,,,
+Yerevan,Armenia,LUXURIOUS STONE APARTMENT IN REPUBLIC SQUARE,2016.0,100.0,Identity verified,1.0,Super host,Entire serviced apartment,6.0,1.0,2.0,2.0,4.98,52.0,5.0,5.0,5.0,5.0,5.0,5.0
+Dilijan,Armenia,Villa Jrhogher Dilijan,2015.0,100.0,Identity not verified,17.0,regular host,Entire residential home,8.0,2.0,3.0,8.0,4.65,212.0,4.8,4.8,4.8,4.5,4.8,4.3
+Yerevan,Armenia,LUXURY DUPLEX APARTMENT ON THE REPUBLIC SQUARE,2016.0,100.0,Identity verified,1.0,Super host,Entire serviced apartment,6.0,2.0,2.0,2.0,5.0,52.0,5.0,5.0,4.9,5.0,5.0,4.9
+Yerevan,Armenia,"🌟 New Luxury apartment ✔️ City Center, MyStreet",2016.0,100.0,Identity verified,221.0,Super host,Entire serviced apartment,4.0,1.0,1.0,2.0,5.0,61.0,5.0,4.3,5.0,4.3,5.0,4.7
+Dilijan,Armenia,"""Petit Dilijan - Autumn""",2014.0,,Identity not verified,31.0,regular host,Entire guesthouse,2.0,1.0,1.0,1.0,0.0,21.0,,,,,,
+Yerevan,Armenia,Apartment & Tours for your safe rest,2017.0,100.0,Identity verified,47.0,regular host,Entire rental unit,4.0,1.0,1.0,1.0,5.0,25.0,5.0,5.0,5.0,4.3,4.7,5.0
+Yerevan,Armenia,1 BDR with balcony on Koghbatsi 16,2020.0,97.0,Identity verified,174.0,Super host,Entire rental unit,3.0,1.0,1.0,1.0,4.9,56.0,4.9,5.0,4.9,4.9,4.8,5.0
+Yerevan,Armenia,➤ Specious Two BDR & Two Baths ★ on Aram Str. #74,2020.0,94.0,Identity verified,189.0,Super host,Entire rental unit  Inn,5.0,2.0,2.0,3.0,5.0,103.0,5.0,5.0,4.8,5.0,4.8,5.0
+Yerevan,Armenia,➤ Panoramic One BDR ★ Buzand Str. #17,2020.0,94.0,Identity verified,189.0,Super host,Entire rental unit  Inn,3.0,1.0,1.0,1.0,5.0,54.0,4.8,4.9,4.9,5.0,4.9,4.8
+Yerevan,Armenia,1 BDR on Buzand 17 with Balcony,2020.0,97.0,Identity verified,174.0,Super host,Entire rental unit,3.0,1.0,1.0,1.0,5.0,58.0,5.0,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,❤ of Republic Sq✔Balcony✔Self CheckIn✔Full Kitchen,2016.0,100.0,Identity verified,240.0,Super host,Entire rental unit,2.0,1.0,1.0,2.0,5.0,51.0,5.0,4.9,5.0,4.8,5.0,4.8
+Dzorakap,Armenia,Apple Tree Family Home (ECO),2019.0,100.0,Identity verified,1.0,regular host,Entire residential home,4.0,1.5,1.0,2.0,0.0,48.0,,,,,,
+Yerevan,Armenia,❤ of Republic Sq✔Balcony✔Self CheckIn✔Full Kitchen,2016.0,100.0,Identity verified,240.0,Super host,Entire rental unit,2.0,1.0,1.0,2.0,5.0,51.0,5.0,4.9,5.0,4.8,5.0,4.8
+Yerevan,Armenia,➤ Two BDR Panoramic ✦ on Kajaznuni Str. #20/1,2020.0,95.0,Identity verified,42.0,Super host,Entire rental unit  Inn,5.0,1.0,2.0,2.0,0.0,90.0,,,,,,
+Aragatsotn,Armenia,Домик влюбленного гномика!,2015.0,50.0,Identity not verified,26.0,regular host,Hut,2.0,0.0,1.0,2.0,0.0,21.0,,,,,,
+Yerevan,Armenia,Amiryan Cozy Apartment,2019.0,100.0,Identity verified,27.0,Super host,Entire rental unit,3.0,1.0,1.0,1.0,5.0,37.0,4.9,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,Business 1 BDR Apartment on Republic Square by RIS,2018.0,,Identity not verified,15.0,Super host,Entire rental unit,2.0,1.0,1.0,1.0,4.93,43.0,4.9,4.8,4.9,5.0,4.9,4.9
+Yerevan,Armenia,Fancy Loft with Terrace at RIS Dalma Collection,2014.0,100.0,Identity verified,536.0,Super host,Entire serviced apartment,4.0,1.0,1.0,2.0,5.0,103.0,5.0,5.0,4.9,4.9,5.0,4.8
+Yerevan,Armenia,Apartment in center North Avenue,2016.0,100.0,Identity verified,1.0,Super host,Entire rental unit,3.0,1.0,1.0,1.0,4.94,35.0,5.0,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,Rent home . Transfer .... Cognac and vine free,2019.0,100.0,Identity not verified,1.0,regular host,Entire rental unit  Авет,4.0,1.0,2.0,2.0,0.0,20.0,,,,,,
+Yerevan,Armenia,Стильная квартира с видом на Арарат.,2019.0,100.0,Identity not verified,18.0,regular host,Entire rental unit,4.0,1.0,1.0,2.0,5.0,29.0,4.9,5.0,5.0,4.8,5.0,5.0
+Yerevan,Armenia,Quiet apartment in the city center,2014.0,100.0,Identity verified,136.0,Super host,Entire rental unit,2.0,1.0,1.0,1.0,4.97,24.0,5.0,5.0,5.0,4.9,5.0,4.9
+Yerevan,Armenia,Nice apt at Republic Square. New building!,2015.0,100.0,Identity verified,304.0,Super host,Entire rental unit,4.0,1.0,1.0,3.0,4.86,150.0,4.8,4.9,4.9,5.0,4.9,4.9
+Dilijan,Armenia,Dilijan Nice View,2017.0,100.0,Identity not verified,9.0,regular host,Entire rental unit,5.0,1.0,2.0,5.0,4.89,33.0,5.0,5.0,5.0,5.0,5.0,4.8
+Yerevan,Armenia,★Urban Luxury Oasis★Near Republic Square,2018.0,100.0,Identity not verified,110.0,Super host,Entire rental unit,2.0,1.0,0.0,1.0,4.95,40.0,5.0,4.9,5.0,5.0,5.0,4.8
+Yerevan,Armenia,1 BDR on Buzand 17 with Balcony,2020.0,97.0,Identity verified,174.0,Super host,Entire rental unit,3.0,1.0,1.0,1.0,5.0,58.0,5.0,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,Cozy apartment for authentic Yerevan experience,2019.0,100.0,Identity verified,3.0,regular host,Entire rental unit,4.0,1.0,1.0,2.0,5.0,32.0,5.0,5.0,5.0,5.0,5.0,5.0
+Dilijan,Armenia,Renovated village house in Dilijan,2012.0,100.0,Identity not verified,6.0,regular host,Entire villa,8.0,2.5,4.0,6.0,5.0,151.0,4.8,4.8,5.0,5.0,5.0,4.5
+Dilijan,Armenia,"""Petit Dilijan - Summer""",2014.0,,Identity not verified,31.0,regular host,Entire guesthouse,2.0,1.0,1.0,1.0,0.0,21.0,,,,,,
+Yerevan,Armenia,One BDR with balcony in Koghbatsi 16,2020.0,97.0,Identity verified,174.0,Super host,Entire rental unit,3.0,1.0,1.0,2.0,4.78,64.0,4.4,4.9,4.8,5.0,5.0,4.9
+Yerevan,Armenia,Yerevan4you Republic Square,2018.0,100.0,Identity verified,193.0,Super host,Entire rental unit,4.0,1.0,1.0,2.0,5.0,45.0,5.0,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,1 Bedroom Apt Near Cascade Complex by RIS,2014.0,100.0,Identity verified,536.0,Super host,Entire rental unit,2.0,1.0,1.0,1.0,5.0,43.0,4.8,5.0,5.0,5.0,4.8,4.8
+Yerevan,Armenia,Home4you The Center,2019.0,100.0,Identity verified,35.0,Super host,Entire rental unit  LLC,4.0,1.0,1.0,1.0,0.0,35.0,,,,,,
+Yerevan,Armenia,✦ Modern apartment ✦ City Center ✔ MyStreet,2016.0,100.0,Identity verified,221.0,Super host,Entire serviced apartment,4.0,1.0,1.0,2.0,5.0,60.0,5.0,5.0,5.0,4.8,5.0,4.8
+Yerevan,Armenia,NEW Cozy and Modern Studio in the City Center,2017.0,95.0,Identity verified,333.0,Super host,Entire rental unit,2.0,1.0,0.0,1.0,4.94,32.0,4.9,5.0,5.0,4.9,5.0,4.9
+Yerevan,Armenia,Cozy apartment for authentic Yerevan experience,2019.0,100.0,Identity verified,3.0,regular host,Entire rental unit,4.0,1.0,1.0,2.0,5.0,32.0,5.0,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,Apartment next to Opera House,2015.0,100.0,Identity verified,152.0,regular host,Entire chalet,6.0,1.0,2.0,4.0,4.87,54.0,4.8,4.9,5.0,5.0,5.0,4.8
+Yerevan,Armenia,★ Bells of Ireland ✔ Self Checkin ✔ Balcony ✔ BBQ,2016.0,100.0,Identity verified,240.0,Super host,Entire rental unit,2.0,1.0,0.0,2.0,4.95,28.0,5.0,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,Apartment in city center with a small balcony,2015.0,100.0,Identity verified,250.0,Super host,Entire rental unit,5.0,1.0,2.0,2.0,4.89,41.0,5.0,4.8,4.9,5.0,4.8,4.9
+Yerevan,Armenia,"""HEART OF YEREVAN"" APARTMENT OF REPUBLIC SQUERE",2016.0,100.0,Identity verified,1.0,Super host,Entire serviced apartment,3.0,1.0,1.0,1.0,4.94,35.0,4.9,5.0,5.0,5.0,5.0,4.9
+Yerevan,Armenia,➤ Next to Dalma Mall ★ Two BDR Apartment,2020.0,94.0,Identity verified,189.0,Super host,Entire rental unit  Inn,5.0,1.0,2.0,2.0,5.0,54.0,5.0,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,Yerevan4you Terrace Mandarin,2018.0,100.0,Identity verified,193.0,Super host,Entire rental unit,4.0,1.0,1.0,2.0,4.93,75.0,4.9,4.9,5.0,4.9,4.9,4.9
+Yerevan,Armenia,2 BDR on Tumanyan 31,2020.0,97.0,Identity verified,174.0,Super host,Entire rental unit,5.0,1.5,2.0,2.0,0.0,66.0,,,,,,
+Yerevan,Armenia,❃ Studio Lily ✔ Self Checkin ✔ Garden ✔ BBQ,2016.0,100.0,Identity verified,240.0,Super host,Entire rental unit,2.0,1.0,0.0,2.0,5.0,26.0,5.0,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,"""HEART OF YEREVAN"" APARTMENT OF REPUBLIC SQUERE",2016.0,100.0,Identity verified,1.0,Super host,Entire serviced apartment,3.0,1.0,1.0,1.0,4.94,35.0,4.9,5.0,5.0,5.0,5.0,4.9
+Yerevan,Armenia,Huge 2BR Apartment with 2 Balconies at Kantar,2014.0,100.0,Identity verified,536.0,Super host,Room in serviced apartment,8.0,2.5,2.0,3.0,4.82,100.0,4.9,4.9,5.0,4.9,4.9,4.6
+Yerevan,Armenia,LARGE 5 BEDROOM LUXURY VILLA,2016.0,100.0,Identity verified,33.0,regular host,Entire villa,10.0,2.0,5.0,8.0,4.7,120.0,4.5,4.7,5.0,4.6,5.0,4.5
+Yerevan,Armenia,1 BDR. apt. with balcony on Aram 48 street,2020.0,97.0,Identity verified,174.0,Super host,Entire rental unit,3.0,1.0,1.0,1.0,5.0,57.0,4.9,4.9,5.0,5.0,5.0,4.7
+Yerevan,Armenia,Home4you The Luxe,2019.0,100.0,Identity verified,35.0,Super host,Entire rental unit  LLC,4.0,1.0,1.0,1.0,0.0,35.0,,,,,,
+Yerevan,Armenia,1 BDR apartment on Northern Avenue 2 street,2020.0,94.0,Identity verified,220.0,Super host,Entire rental unit,2.0,1.5,1.0,1.0,5.0,64.0,5.0,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,2 BDR with Balcony on Northern avenue,2020.0,97.0,Identity verified,174.0,Super host,Entire rental unit,5.0,1.0,2.0,2.0,4.92,116.0,4.8,5.0,5.0,5.0,5.0,4.8
+Yerevan,Armenia,❃Tulip ✔1BR ✔ Self Checkin ✔ Garden ✔ BBQ ✔Netflix,2016.0,100.0,Identity verified,240.0,Super host,Entire rental unit,4.0,1.0,1.0,2.0,5.0,38.0,5.0,5.0,5.0,4.7,5.0,4.9
+Yerevan,Armenia,1-BDR with Mountain View at RIS Dalma Collection,2014.0,100.0,Identity verified,536.0,Super host,Entire serviced apartment,4.0,1.0,1.0,2.0,4.97,84.0,5.0,4.9,5.0,4.7,5.0,4.9
+Tsaghkadzor,Armenia,Tsaghkadzor Homeland,2021.0,100.0,Identity verified,0.0,regular host,Entire villa,12.0,2.5,4.0,4.0,0.0,350.0,,,,,,
+Yerevan,Armenia,➤ Fashionable 2 BDR ★ on Moskovyan str. #28,2020.0,94.0,Identity verified,189.0,Super host,Entire rental unit  Inn,5.0,1.5,2.0,2.0,4.9,84.0,4.9,4.8,4.8,4.9,4.8,4.8
+Yerevan,Armenia,❃ Studio Lily ✔ Self Checkin ✔ Garden ✔ BBQ,2016.0,100.0,Identity verified,240.0,Super host,Entire rental unit,2.0,1.0,0.0,2.0,5.0,26.0,5.0,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,Business 1 BDR Apartment on Republic Square by RIS,2014.0,100.0,Identity verified,536.0,Super host,Entire condominium (condo),2.0,1.0,1.0,1.0,4.89,43.0,4.9,4.9,5.0,5.0,4.9,4.8
+Yerevan,Armenia,Stylish 1 BDR. apartment on Buzand 17 str.,2020.0,94.0,Identity verified,220.0,Super host,Entire rental unit,3.0,1.0,1.0,1.0,4.8,60.0,5.0,4.8,4.9,5.0,5.0,4.6
+Yerevan,Armenia,"Малый Центр , Кентрон 2 комнатная квартира 60/кв2",2019.0,100.0,Identity not verified,16.0,Super host,Entire rental unit,4.0,1.0,1.0,2.0,4.75,50.0,4.8,4.9,4.8,4.9,4.6,4.9
+Yerevan,Armenia,2 BDR on Nalbandyan 17-7/1,2020.0,95.0,Identity verified,42.0,Super host,Entire rental unit  Inn,4.0,1.0,2.0,3.0,0.0,48.0,,,,,,
+Yerevan,Armenia,New Renovated Modern Apartment in The City Center,2017.0,100.0,Identity verified,26.0,Super host,Entire rental unit,5.0,1.0,2.0,2.0,5.0,81.0,4.9,5.0,5.0,5.0,5.0,4.8
+Yerevan,Armenia,2-BDR with Aragats View at RIS Dalma Collection,2014.0,100.0,Identity verified,536.0,Super host,Entire serviced apartment,6.0,1.0,2.0,3.0,5.0,94.0,5.0,4.9,5.0,4.7,5.0,4.9
+Yerevan,Armenia,"Малый Центр , Кентрон 2 комнатная квартира 60/кв2",2019.0,100.0,Identity not verified,16.0,Super host,Entire rental unit,4.0,1.0,1.0,2.0,4.75,50.0,4.8,4.9,4.8,4.9,4.6,4.9
+Yerevan,Armenia,2 BDR on Nalbandyan 17-7/1,2020.0,95.0,Identity verified,42.0,Super host,Entire rental unit  Inn,4.0,1.0,2.0,3.0,0.0,48.0,,,,,,
+Yerevan,Armenia,3-Bedroom Luxe Apartment,2019.0,83.0,Identity verified,17.0,Super host,Entire rental unit,6.0,1.5,2.0,5.0,0.0,27.0,,,,,,
+Yerevan,Armenia,Perfect Studio Apartment in the City Center Heart,2019.0,100.0,Identity verified,180.0,Super host,Entire rental unit,2.0,1.0,0.0,0.0,5.0,64.0,5.0,5.0,5.0,5.0,4.9,4.9
+Yerevan,Armenia,Квартира-студия на Каскаде,2017.0,100.0,Identity not verified,65.0,regular host,Entire rental unit,2.0,1.0,0.0,1.0,4.94,37.0,4.9,5.0,5.0,5.0,4.9,4.9
+Yerevan,Armenia,Perfect 1BDR Apartment in the City Center Heart,2019.0,100.0,Identity verified,180.0,Super host,Entire rental unit,2.0,1.0,1.0,1.0,5.0,58.0,5.0,5.0,5.0,5.0,5.0,4.9
+Yerevan,Armenia,1 BDR with french balcony on Koghbatsi 16,2020.0,97.0,Identity verified,174.0,Super host,Entire rental unit,3.0,1.0,1.0,1.0,5.0,74.0,5.0,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,➤ Modern One BDR ★ by Dalma Mall,2020.0,94.0,Identity verified,189.0,Super host,Entire rental unit  Inn,3.0,1.0,1.0,1.0,5.0,52.0,4.9,4.9,4.8,4.9,4.8,4.8
+Garni,Armenia,Дом на природе.,2018.0,100.0,Identity not verified,25.0,Super host,Entire villa,10.0,1.5,3.0,6.0,0.0,170.0,,,,,,
+Yerevan,Armenia,Stylish Apartments of Republic Squere(City Center),2016.0,100.0,Identity verified,1.0,Super host,Entire rental unit,3.0,1.0,1.0,1.0,4.95,35.0,5.0,5.0,5.0,5.0,4.9,4.8
+Yerevan,Armenia,Modern Cozy Yerevan City Center Apartment Armenia,2017.0,,Identity verified,405.0,Super host,Entire rental unit  And Mark,3.0,1.0,0.0,3.0,4.87,29.0,4.9,5.0,5.0,4.9,5.0,4.9
+Yerevan,Armenia,"Просторная,светлая квартира с 2-я спальнями, центр",2013.0,,Identity verified,105.0,Super host,Entire rental unit  & Lilit,4.0,1.5,2.0,4.0,4.92,50.0,4.9,5.0,5.0,5.0,5.0,4.9
+Yerevan,Armenia,Modern Vintage Stay Apartment,2019.0,100.0,Identity verified,180.0,Super host,Entire rental unit,3.0,1.0,1.0,2.0,4.89,54.0,4.9,4.9,5.0,5.0,5.0,4.7
+Yerevan,Armenia,Beautiful apartments of the Republic Square,2016.0,100.0,Identity verified,1.0,Super host,Entire rental unit,2.0,1.0,1.0,1.0,4.93,36.0,4.9,4.9,5.0,5.0,4.9,4.9
+Yerevan,Armenia,New apartment in the center of Yerevan,2017.0,100.0,Identity not verified,12.0,regular host,Entire rental unit,3.0,1.0,1.0,1.0,5.0,24.0,5.0,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,"2 BDR, 2BTH on 18th floor with Terrace",2020.0,97.0,Identity verified,174.0,Super host,Entire rental unit,5.0,2.0,2.0,2.0,4.92,130.0,4.9,4.9,5.0,5.0,5.0,4.7
+Yerevan,Armenia,Apartment in Yerevan,2014.0,,Identity not verified,1.0,regular host,Entire rental unit,4.0,1.0,1.0,3.0,0.0,20.0,,,,,,
+Yerevan,Armenia,Lovely new modern apartment in the city centre❤️🤩,2016.0,,Identity verified,0.0,regular host,Entire rental unit,4.0,1.0,1.0,2.0,0.0,53.0,,,,,,
+Yerevan,Armenia,Modern 2 bedroom apt. on Mashtots Avenue 16A,2020.0,94.0,Identity verified,220.0,Super host,Entire rental unit,5.0,1.5,2.0,3.0,0.0,74.0,,,,,,
+Yerevan,Armenia,☆ Scandi Design ✔ Self-Checkin ✔ Netflix ✔ 2BR,2016.0,100.0,Identity verified,240.0,Super host,Entire rental unit,5.0,1.0,2.0,3.0,5.0,54.0,5.0,4.9,5.0,5.0,4.9,5.0
+Tsaghkadzor,Armenia,Alaska Resort Tsaghkadzor,2016.0,100.0,Identity verified,73.0,Super host,Entire cottage,6.0,2.0,3.0,5.0,4.75,120.0,5.0,4.8,4.8,4.5,4.8,4.8
+Gyumri,Armenia,KAYARAN home,2014.0,100.0,Identity verified,43.0,Super host,Entire rental unit,3.0,1.0,0.0,2.0,5.0,29.0,5.0,5.0,5.0,4.9,5.0,4.9
+Yerevan,Armenia,2 BDR on Amiryan street with Balcony,2020.0,97.0,Identity verified,174.0,Super host,Entire rental unit,5.0,1.5,2.0,3.0,4.88,106.0,4.9,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,➤ 19-th floor Panoramic One BDR ☆ close to Dalma,2020.0,94.0,Identity verified,189.0,Super host,Entire rental unit  Inn,3.0,1.0,1.0,1.0,4.71,52.0,4.7,4.9,5.0,5.0,4.8,4.9
+Yerevan,Armenia,One BDR apartment in Koghbatsi 16,2020.0,97.0,Identity verified,174.0,Super host,Entire rental unit,4.0,1.0,1.0,1.0,4.83,56.0,5.0,5.0,4.8,5.0,5.0,5.0
+Yerevan,Armenia,♫ Blue Poppy ♫ 1 BR ✔ Self Checkin ✔ Garden ✔ BBQ,2016.0,100.0,Identity verified,240.0,Super host,Entire rental unit,4.0,1.0,1.0,2.0,4.97,38.0,4.9,5.0,4.9,4.8,5.0,4.8
+Yerevan,Armenia,"🤍 Lux Comfort apartment ✔ City Centre, MyStreet",2016.0,100.0,Identity verified,221.0,Super host,Entire serviced apartment,4.0,1.0,1.0,2.0,5.0,62.0,5.0,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,Grey apartment with 2 BDR on downtown Yerevan,2020.0,94.0,Identity verified,220.0,Super host,Entire rental unit,5.0,2.0,2.0,2.0,4.41,92.0,4.8,4.5,5.0,4.8,4.8,4.5
+Tsaghkadzor,Armenia,Villa with three separate apartments,2021.0,100.0,Identity verified,0.0,regular host,Room in aparthotel,12.0,4.5,6.0,9.0,0.0,270.0,,,,,,
+Tsaghkadzor,Armenia,Forest Castle Tsaghkadzor (Villa),2019.0,100.0,Identity verified,3.0,regular host,Entire villa,15.0,5.0,5.0,9.0,0.0,500.0,,,,,,
+Yerevan,Armenia,Appartment 93 sq/m + tours,2017.0,100.0,Identity verified,47.0,regular host,Entire rental unit,6.0,1.0,2.0,2.0,4.75,28.0,4.8,4.9,5.0,4.7,5.0,4.9
+Yerevan,Armenia,Luxury apartment at the center of the city,2021.0,100.0,Identity verified,10.0,regular host,Entire rental unit,5.0,1.0,2.0,2.0,5.0,38.0,4.8,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,5 Stars Apartment in Central Area of Yerevan,2020.0,100.0,Identity not verified,6.0,Super host,Entire rental unit,5.0,1.5,2.0,3.0,5.0,47.0,5.0,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,"✨ Fantastic apartment ✔ Perfect Location, MyStreet",2016.0,100.0,Identity verified,221.0,Super host,Entire serviced apartment,4.0,1.0,1.0,2.0,5.0,70.0,4.7,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,➤ One BDR with balcony ★ on Republic Sq.,2020.0,94.0,Identity verified,189.0,Super host,Entire rental unit  Inn,4.0,1.0,1.0,1.0,4.95,49.0,5.0,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,Comfy 2 bedroom on Buzand 17 str.,2020.0,94.0,Identity verified,220.0,Super host,Entire rental unit,5.0,1.0,2.0,2.0,4.71,68.0,4.6,4.7,5.0,5.0,5.0,4.7
+Yerevan,Armenia,Studio apartment on Aram 82/84,2020.0,97.0,Identity verified,174.0,Super host,Entire rental unit,3.0,1.0,0.0,1.0,5.0,45.0,5.0,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,Luxury apartment at the center of the city,2021.0,100.0,Identity verified,10.0,regular host,Entire rental unit,5.0,1.0,2.0,2.0,5.0,38.0,4.8,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,Lovely 1 bedroom app on main road,2021.0,,Identity verified,0.0,regular host,Entire rental unit,4.0,1.0,2.0,2.0,0.0,53.0,,,,,,
+Yerevan,Armenia,Charming apt. with 2 bedrooms near Boulevard park,2020.0,94.0,Identity verified,220.0,Super host,Entire rental unit,5.0,1.0,2.0,2.0,5.0,74.0,5.0,4.8,5.0,5.0,4.5,5.0
+Yerevan,Armenia,COMFY APARTMENT FOR YOUR HOLIDAY,2017.0,100.0,Identity verified,47.0,regular host,Entire rental unit,4.0,1.0,1.0,2.0,5.0,24.0,5.0,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,Superb Delux 2/3,2021.0,100.0,Identity verified,13.0,Super host,Entire rental unit,3.0,1.0,1.0,1.0,4.75,33.0,4.2,5.0,5.0,5.0,4.8,4.8
+Yerevan,Armenia,➤ Huge Balcony ✦ 2 BDR ✦ on Northern Ave. #5,2020.0,95.0,Identity verified,42.0,Super host,Entire rental unit  Inn,5.0,1.5,2.0,2.0,0.0,113.0,,,,,,
+Yerevan,Armenia,#Cozy modern 2bdr. apartemnt near Northern Avenue,2016.0,100.0,Identity verified,164.0,Super host,Entire rental unit,5.0,1.5,2.0,4.0,4.88,54.0,4.8,4.8,4.9,5.0,4.9,4.9
+Yerevan,Armenia,Идеальные Апартаменты Ideal Apartments,2021.0,100.0,Identity verified,5.0,regular host,Entire residential home,4.0,1.0,1.0,2.0,5.0,30.0,5.0,5.0,5.0,4.0,5.0,5.0
+Yerevan,Armenia,Luxury penthouse/loft apartment in the city center,2017.0,100.0,Identity verified,58.0,Super host,Entire chalet,3.0,2.0,1.0,2.0,4.97,49.0,5.0,5.0,5.0,5.0,5.0,4.9
+Yerevan,Armenia,✨ In the HEART of the City ✨ with terrace,2016.0,100.0,Identity verified,221.0,Super host,Entire serviced apartment,4.0,1.0,1.0,2.0,5.0,48.0,5.0,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,Идеальные Апартаменты Ideal Apartments,2021.0,100.0,Identity verified,5.0,regular host,Entire residential home,4.0,1.0,1.0,2.0,5.0,30.0,5.0,5.0,5.0,4.0,5.0,5.0
+Yerevan,Armenia,Home4you Deluxe Apartment,2019.0,100.0,Identity verified,35.0,Super host,Entire rental unit  LLC,4.0,1.0,1.0,2.0,5.0,51.0,5.0,4.9,5.0,5.0,5.0,5.0
+Yerevan,Armenia,2 BDR on Buzand 17 ( no A/C),2020.0,97.0,Identity verified,174.0,Super host,Entire rental unit,5.0,1.0,2.0,2.0,5.0,78.0,4.7,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,Studio apt. on Koghbatsi str. nearby Republic Sq.,2020.0,94.0,Identity verified,220.0,Super host,Entire rental unit,4.0,1.0,1.0,3.0,4.83,47.0,4.9,4.8,4.9,5.0,4.9,4.9
+Yerevan,Armenia,"NEWLY RENOVATED, modern 2 bedroom apt, Tumanyan St",2019.0,100.0,Identity verified,50.0,regular host,Entire rental unit,5.0,1.0,2.0,4.0,5.0,54.0,5.0,5.0,5.0,4.9,5.0,4.9
+Yerevan,Armenia,✔ Heart of Yerevan ✔ Self Checkin ✔ Netflix,2016.0,100.0,Identity verified,240.0,Super host,Entire rental unit,3.0,1.0,2.0,2.0,5.0,40.0,4.9,5.0,5.0,5.0,5.0,4.9
+Yerevan,Armenia,1 BDR apt. on Mashtots 40A -7 str.,2020.0,94.0,Identity verified,220.0,Super host,Entire rental unit,4.0,1.0,1.0,1.0,5.0,47.0,5.0,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,Beautiful/new apartment in the center of Yerevan,2019.0,90.0,Identity verified,31.0,Super host,Entire rental unit,5.0,1.0,2.0,2.0,5.0,60.0,5.0,5.0,4.9,5.0,4.9,5.0
+Yerevan,Armenia,Loft with Terrace at RIS Dalma Collection,2014.0,100.0,Identity verified,536.0,Super host,Entire loft,4.0,1.0,1.0,2.0,4.96,103.0,5.0,5.0,5.0,4.8,4.8,4.8
+Yerevan,Armenia,Yerevan4you Patio,2018.0,100.0,Identity verified,193.0,Super host,Entire rental unit,4.0,1.5,1.0,2.0,4.97,49.0,5.0,4.9,4.9,5.0,4.9,4.9
+Yerevan,Armenia,1 bedroom apt. on Mashtots 5 avenue,2020.0,94.0,Identity verified,220.0,Super host,Entire rental unit,3.0,1.5,1.0,1.0,5.0,50.0,5.0,5.0,5.0,5.0,4.7,5.0
+Yerevan,Armenia,1 BDR. apartment with balcony on Amiryan str.,2020.0,94.0,Identity verified,220.0,Super host,Entire rental unit,3.0,1.5,1.0,1.0,5.0,77.0,4.9,4.9,5.0,5.0,5.0,4.9
+Yerevan,Armenia,Modern 1 bedroom next on Buzand 17 str. next to XV,2020.0,94.0,Identity verified,220.0,Super host,Entire rental unit,3.0,1.0,1.0,1.0,4.67,55.0,5.0,4.8,5.0,5.0,5.0,4.7
+Yerevan,Armenia,Brand New 1BDR at RIS Dalma Collection,2014.0,100.0,Identity verified,536.0,Super host,Entire rental unit,4.0,1.0,1.0,2.0,4.96,64.0,5.0,4.9,4.9,4.8,5.0,4.8
+Yerevan,Armenia,New Studio on Koghbatsi 16,2020.0,97.0,Identity verified,174.0,Super host,Entire rental unit,2.0,1.0,0.0,1.0,4.91,51.0,5.0,5.0,5.0,5.0,4.8,5.0
+Yerevan,Armenia,Nalbandyan 2b unique apartment in Yerevan Downtown,2016.0,100.0,Identity verified,5.0,regular host,Entire rental unit,5.0,1.0,2.0,3.0,5.0,64.0,5.0,5.0,4.8,5.0,5.0,5.0
+Yerevan,Armenia,☼ Sunflower Studio ✔ Self Checkin ✔ BBQ Garden,2016.0,100.0,Identity verified,240.0,Super host,Entire rental unit,2.0,1.0,0.0,2.0,5.0,28.0,5.0,5.0,5.0,5.0,5.0,4.9
+Yerevan,Armenia,Home4you Master Suite,2019.0,100.0,Identity verified,35.0,Super host,Entire rental unit  LLC,4.0,1.0,1.0,1.0,0.0,55.0,,,,,,
+Tsaghkadzor,Armenia,Forest Castle Tsaghkadzor ( Cozy Vacation Home ),2019.0,100.0,Identity verified,3.0,regular host,Entire residential home,8.0,2.0,1.0,7.0,5.0,200.0,4.3,4.7,5.0,5.0,5.0,4.7
+Yerevan,Armenia,🌟 2-BDR apartment 🌟 w/Balcony 🌟 in Republic Square,2021.0,,Identity verified,0.0,regular host,Entire serviced apartment,5.0,2.0,2.0,2.0,0.0,60.0,,,,,,
+Yerevan,Armenia,Мой дом - твой дом,2019.0,,Identity not verified,12.0,regular host,Entire rental unit,4.0,1.0,1.0,1.0,4.5,22.0,4.7,4.7,4.8,5.0,5.0,4.8
+Yerevan,Armenia,Comfort Apartment in city center,2016.0,100.0,Identity not verified,12.0,regular host,Entire rental unit,3.0,1.0,1.0,1.0,4.89,45.0,4.8,4.9,5.0,5.0,5.0,4.9
+Yerevan,Armenia,➤ Cute Studio near Vernissage,2020.0,94.0,Identity verified,189.0,Super host,Entire rental unit  Inn,2.0,1.0,0.0,1.0,4.69,35.0,4.8,4.9,4.8,4.9,4.9,4.8
+Yerevan,Armenia,❤ Boulevard ✔ Self-Checkin ✔Smart TV ✔Netflix ✔A/C,2016.0,100.0,Identity verified,240.0,Super host,Entire rental unit,4.0,1.0,2.0,2.0,5.0,59.0,4.8,5.0,5.0,5.0,5.0,4.7
+Yerevan,Armenia,DaLi Apartment,2018.0,75.0,Identity not verified,25.0,regular host,Entire rental unit,6.0,2.0,3.0,4.0,5.0,45.0,4.9,5.0,5.0,4.7,5.0,5.0
+Yerevan,Armenia,"3BDR , 2BTH on Sayat-Nova 33",2020.0,95.0,Identity verified,68.0,Super host,Entire rental unit,7.0,2.0,3.0,4.0,4.6,104.0,4.8,4.8,4.8,4.8,4.8,4.6
+Yerevan,Armenia,➤ Cute Studio near Vernissage,2020.0,94.0,Identity verified,189.0,Super host,Entire rental unit  Inn,2.0,1.0,0.0,1.0,4.69,35.0,4.8,4.9,4.8,4.9,4.9,4.8
+Yerevan,Armenia,Bright Modern flat in the center of Yerevan,2017.0,100.0,Identity verified,52.0,Super host,Entire rental unit,10.0,1.0,3.0,3.0,4.92,59.0,4.8,5.0,5.0,5.0,5.0,4.9
+Yerevan,Armenia,Lovely flat with great view,2015.0,100.0,Identity verified,66.0,Super host,Entire rental unit,4.0,1.0,1.0,2.0,4.92,31.0,4.9,4.9,4.9,4.9,4.9,4.9
+Yerevan,Armenia,1 BDR apt. on Buzand str. 17-30,2020.0,94.0,Identity verified,220.0,Super host,Entire rental unit,3.0,1.0,1.0,1.0,4.76,51.0,4.8,4.7,4.9,4.7,4.8,4.7
+Yerevan,Armenia,"🤍 Luxury apartment in the City Centre, My Street",2016.0,100.0,Identity verified,221.0,Super host,Entire serviced apartment,4.0,1.0,1.0,2.0,5.0,65.0,5.0,5.0,5.0,5.0,5.0,4.9
+Yerevan,Armenia,Double Room in the heart of Yerevan,2019.0,,Identity verified,0.0,regular host,Room in boutique hotel 'Image Art Hotel,3.0,1.0,1.0,2.0,0.0,35.0,,,,,,
+Yerevan,Armenia,✨ Modern 2-BDR apartment ✔ City Centre ✔,2016.0,100.0,Identity verified,221.0,Super host,Entire serviced apartment,5.0,2.0,2.0,3.0,0.0,92.0,,,,,,
+Yerevan,Armenia,Luxury and new Apartment in the center,2020.0,88.0,Identity not verified,1.0,regular host,Entire rental unit,6.0,1.0,2.0,3.0,0.0,32.0,,,,,,
+Yerevan,Armenia,❃City Center❃Self CheckIn ❃Netflix,2016.0,100.0,Identity verified,240.0,Super host,Entire condominium (condo),3.0,1.0,1.0,1.0,0.0,55.0,,,,,,
+Yerevan,Armenia,Bernardi's 1-Bedroom in the Very Center by RIS,2014.0,100.0,Identity verified,536.0,Super host,Entire rental unit,3.0,1.0,1.0,2.0,4.75,43.0,5.0,5.0,5.0,5.0,4.9,4.8
+Yerevan,Armenia,2 BDR on Northern avenue,2020.0,97.0,Identity verified,174.0,Super host,Entire rental unit,4.0,1.0,2.0,2.0,5.0,90.0,4.9,5.0,5.0,5.0,5.0,4.9
+Yerevan,Armenia,Cozy Apartment next to Opera House and Swan lake,2021.0,100.0,Identity verified,4.0,regular host,Entire rental unit,6.0,1.0,2.0,4.0,5.0,70.0,5.0,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,Downtown Soul Apartment in Yerevan Center,2011.0,,Identity not verified,4.0,regular host,Entire rental unit ://Www.Airbnb.Com/Users,5.0,1.0,3.0,3.0,0.0,100.0,,,,,,
+Yerevan,Armenia,Апартамент Piano,2017.0,100.0,Identity verified,95.0,Super host,Entire rental unit,6.0,1.0,2.0,3.0,4.98,39.0,5.0,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,Комитас,2019.0,100.0,Identity verified,31.0,Super host,Entire rental unit,2.0,1.0,1.0,1.0,4.97,19.0,4.9,5.0,5.0,4.8,4.9,4.9
+Yerevan,Armenia,Yerevan4you Courtyard,2018.0,100.0,Identity verified,193.0,Super host,Entire rental unit,5.0,1.0,1.0,1.0,5.0,49.0,5.0,5.0,5.0,5.0,5.0,4.9
+Yerevan,Armenia,➤ Geographic Designed ★ 2 BDR on Yekmalyan Str.,2020.0,94.0,Identity verified,189.0,Super host,Entire rental unit  Inn,4.0,1.0,2.0,2.0,5.0,80.0,5.0,5.0,5.0,4.8,5.0,5.0
+Yerevan,Armenia,Apartment North Avenue,2016.0,100.0,Identity verified,8.0,regular host,Entire rental unit,8.0,1.5,3.0,3.0,0.0,93.0,,,,,,
+Gyumri,Armenia,Центральный Гюмри ДОМ МЕЧТЫ Guest Hausse A.S.T.,2016.0,100.0,Identity not verified,18.0,regular host,Entire rental unit,5.0,1.0,2.0,1.0,4.78,30.0,4.7,4.7,4.8,5.0,4.8,4.6
+Yerevan,Armenia,Your apartment next to Yerevan State University,2010.0,,Identity not verified,72.0,regular host,Entire loft,4.0,1.0,1.0,3.0,0.0,31.0,,,,,,
+Yerevan,Armenia,Apartments in the CITY CENTER near the OPERA,2016.0,100.0,Identity verified,1.0,Super host,Entire rental unit,2.0,1.5,1.0,1.0,4.86,30.0,4.9,4.9,5.0,5.0,4.9,4.9
+Vanadzor,Armenia,Bubble Park Hotel,2019.0,,Identity not verified,3.0,regular host,Private room in tent,2.0,1.0,1.0,0.0,5.0,50.0,5.0,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,# NEW Modern Apartment Center (Cascade / Opera) #,2018.0,100.0,Identity verified,35.0,Super host,Entire rental unit,6.0,2.5,2.0,3.0,5.0,93.0,5.0,5.0,5.0,5.0,5.0,4.9
+Yerevan,Armenia,@Bright New Building apartment close to 4 Seasons,2016.0,100.0,Identity verified,164.0,Super host,Entire rental unit,5.0,1.5,2.0,3.0,5.0,85.0,4.8,5.0,4.8,5.0,5.0,5.0
+Yerevan,Armenia,Guest house Yerevan,2015.0,,Identity not verified,94.0,Super host,Entire rental unit,4.0,1.0,1.0,1.0,4.92,40.0,4.9,4.9,4.9,5.0,4.9,5.0
+Yerevan,Armenia,Vernissage's one bedroom modern apartment,2015.0,100.0,Identity verified,152.0,regular host,Entire chalet,4.0,1.0,1.0,2.0,5.0,48.0,4.8,5.0,5.0,5.0,5.0,4.8
+Yerevan,Armenia,✨ Nothern Avenue ✨ Luxury 1-BDR apartment,2021.0,,Identity verified,0.0,regular host,Entire serviced apartment,3.0,1.0,1.0,1.0,0.0,59.0,,,,,,
+Yerevan,Armenia,Apartament in the center of Yerevan 27,2018.0,100.0,Identity not verified,17.0,regular host,Entire rental unit,7.0,1.0,3.0,3.0,0.0,42.0,,,,,,
+Дилижан,Armenia,Sweet home,2015.0,100.0,Identity not verified,4.0,regular host,Entire guesthouse,4.0,1.0,2.0,4.0,5.0,26.0,5.0,5.0,5.0,5.0,5.0,4.7
+Yerevan,Armenia,Best Apartment and Tours,2017.0,,Identity not verified,12.0,regular host,Entire serviced apartment  Apartment And Tours,7.0,2.0,3.0,5.0,4.8,56.0,4.7,4.9,4.9,4.9,5.0,4.8
+Yerevan,Armenia,COMFORTABLE APARTMENTS,2021.0,100.0,Identity verified,5.0,regular host,Entire residential home,4.0,1.0,1.0,2.0,0.0,30.0,,,,,,
+Yerevan,Armenia,Peerless 2 BDR in Downtown with Ararat view by RIS,2014.0,100.0,Identity verified,536.0,Super host,Entire rental unit,6.0,2.0,2.0,5.0,4.91,66.0,5.0,5.0,4.9,5.0,4.9,4.7
+Yerevan,Armenia,1BDR apt on Hin Yerevantsi 47a,2020.0,95.0,Identity verified,68.0,Super host,Entire rental unit,3.0,1.0,1.0,1.0,4.78,47.0,4.7,4.7,4.9,5.0,4.6,4.4
+Yerevan,Armenia,#Bright RetroModern apartment near Northern Avenue,2016.0,100.0,Identity verified,164.0,Super host,Entire serviced apartment,6.0,3.0,3.0,4.0,5.0,90.0,5.0,5.0,5.0,5.0,5.0,5.0
+Dilijan,Armenia,Дом с прекрасным видом в г. Դիլիջան VERONIKA,2019.0,100.0,Identity not verified,2.0,regular host,Entire cabin,3.0,1.0,1.0,2.0,0.0,60.0,,,,,,
+Yerevan,Armenia,A cozy apartment at the center of the city,2021.0,100.0,Identity verified,10.0,regular host,Entire rental unit,5.0,1.0,2.0,2.0,5.0,40.0,5.0,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,Jasmin apt with balcony at Republic Sq&Ruben tours,2014.0,100.0,Identity verified,395.0,Super host,Entire rental unit,6.0,1.0,2.0,4.0,4.88,45.0,4.8,4.9,4.9,5.0,5.0,4.9
+Yerevan,Armenia,Абсолютно новый номер для проживания в Ереване,2013.0,,Identity verified,0.0,regular host,Entire guest suite,2.0,1.0,1.0,,0.0,30.0,,,,,,
+Jraber,Armenia,Peaceful getaway in the nature,2016.0,100.0,Identity verified,85.0,Super host,Private room in cottage,2.0,3.0,2.0,4.0,0.0,59.0,,,,,,
+Yerevan,Armenia,1 BDR above Mayrig restaurant on Amiryan str.,2020.0,94.0,Identity verified,220.0,Super host,Entire rental unit,3.0,1.5,1.0,1.0,5.0,80.0,4.9,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,Tripple room in a cozy guesthouse N3:),2016.0,,Identity verified,132.0,regular host,Private room in bed and breakfast,3.0,1.5,1.0,3.0,4.29,20.0,4.0,4.2,4.6,4.4,4.6,4.5
+Yerevan,Armenia,1 BDR above Mayrig restaurant on Amiryan str.,2020.0,94.0,Identity verified,220.0,Super host,Entire rental unit,3.0,1.5,1.0,1.0,5.0,80.0,4.9,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,➤ Two BDR on Aram Str.#70 ✦ close to the park,2020.0,95.0,Identity verified,42.0,Super host,Entire rental unit  Inn,5.0,1.5,2.0,3.0,0.0,96.0,,,,,,
+Yerevan,Armenia,YerevanSky city center apartment,2015.0,100.0,Identity verified,47.0,Super host,Entire rental unit,6.0,1.0,2.0,4.0,5.0,40.0,4.8,5.0,5.0,5.0,5.0,4.8
+Yerevan,Armenia,Cascad Ellite PH,2019.0,100.0,Identity verified,19.0,Super host,Entire rental unit,2.0,1.0,1.0,1.0,4.89,55.0,4.9,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,★ Cosy apt near Cascade ★ Antarain str 124/1,2016.0,100.0,Identity verified,54.0,Super host,Entire rental unit,3.0,1.0,1.0,1.0,4.86,40.0,4.7,4.9,4.9,4.9,4.8,4.9
+Yerevan,Armenia,3-х комнатная на Северном проспекте,2020.0,95.0,Identity verified,68.0,Super host,Entire rental unit,5.0,1.0,2.0,2.0,4.57,93.0,4.4,4.7,4.6,5.0,4.3,4.6
+Yerevan,Armenia,Studio Apartment on Mashtots Street by Picnic,2017.0,62.0,Identity verified,121.0,regular host,Entire rental unit,2.0,1.0,0.0,1.0,4.85,41.0,4.7,4.8,4.9,5.0,4.7,4.8
+Yerevan,Armenia,Светлая квартира в центре Еревана YEREVAN centre,2014.0,100.0,Identity verified,136.0,Super host,Entire rental unit,2.0,1.0,1.0,2.0,4.97,29.0,5.0,5.0,5.0,5.0,5.0,4.9
+Yerevan,Armenia,Sunny apartment,2018.0,100.0,Identity not verified,39.0,Super host,Entire rental unit,3.0,1.0,0.0,2.0,4.75,15.0,4.7,4.9,4.9,4.8,5.0,4.9
+Yerevan,Armenia,NEW Modern and Cozy Studio in the City Center,2017.0,95.0,Identity verified,333.0,Super host,Entire rental unit,2.0,1.0,0.0,1.0,4.98,39.0,4.9,5.0,5.0,5.0,5.0,4.9

@@ -1,0 +1,14 @@
+city,country,name,host_since,host_response_rate,host_identity_verified,review,superhost,property_type,accomodates,number_bathroom,number_bedroom,number_beds,rating,price,cleanliness,accuracy,communication,location,check_in,value
+Stepanavan,Armenia,Major's House Boutique Hotel in Stepanavan,2021.0,100.0,Identity verified,0.0,regular host,Room in boutique hotel,2.0,1.0,1.0,1.0,0.0,100.0,,,,,,
+Stepanavan,Armenia,Hametsek - comfortable stay and cultural immersion,2018.0,100.0,Identity verified,3.0,regular host,Entire residential home,6.0,1.0,2.0,4.0,3.67,25.0,4.0,4.7,4.3,4.0,5.0,3.7
+Stepanavan,Armenia,Private house with garden,2017.0,86.0,Identity verified,3.0,regular host,Entire residential home,8.0,1.0,3.0,5.0,0.0,55.0,,,,,,
+Stepanavan,Armenia,Major's House Boutique Hotel in Stepanavan,2021.0,100.0,Identity verified,0.0,regular host,Room in boutique hotel,2.0,1.0,1.0,1.0,0.0,100.0,,,,,,
+Stepanavan,Armenia,Barseghyan's resort,2021.0,100.0,Identity verified,0.0,regular host,Entire residential home,7.0,1.0,4.0,6.0,0.0,54.0,,,,,,
+Gargar,Armenia,Healthy and healthy,2015.0,100.0,Identity not verified,3.0,regular host,Private room in residential home,2.0,1.0,2.0,4.0,5.0,12.0,4.3,5.0,5.0,5.0,5.0,5.0
+Gyulagarak,Armenia,"V&V HOTEL, COTTAGE 2",2020.0,100.0,Identity verified,1.0,regular host,Entire villa,6.0,1.0,2.0,4.0,0.0,155.0,,,,,,
+Stepanavan,Armenia,Major's House Boutique Hotel in Stepanavan,2021.0,100.0,Identity verified,0.0,regular host,Room in boutique hotel,3.0,1.0,1.0,2.0,0.0,100.0,,,,,,
+Stepanavan,Armenia,Major's House Boutique Hotel in Stepanavan,2021.0,100.0,Identity verified,0.0,regular host,Room in boutique hotel,3.0,1.0,1.0,2.0,0.0,100.0,,,,,,
+Stepanavan,Armenia,Hametsek - Private Room with Garden View,2018.0,100.0,Identity verified,3.0,regular host,Private room in residential home,3.0,1.0,1.0,0.0,0.0,15.0,,,,,,
+Stepanavan,Armenia,Major's House Boutique Hotel in Stepanavan,2021.0,100.0,Identity verified,0.0,regular host,Entire residential home,16.0,8.0,8.0,11.0,0.0,650.0,,,,,,
+Stepanavan,Armenia,Hametsek - Private Family Room,2018.0,100.0,Identity verified,3.0,regular host,Private room in residential home,3.0,1.0,1.0,0.0,0.0,15.0,,,,,,
+Stepanavan,Armenia,"Best offer in Lori Region, Stepanavan",2017.0,86.0,Identity verified,3.0,regular host,Private room in guest suite,16.0,1.0,1.0,2.0,2.5,25.0,4.0,3.0,2.5,2.5,3.5,3.0

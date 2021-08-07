@@ -1,0 +1,56 @@
+city,country,name,host_since,host_response_rate,host_identity_verified,review,superhost,property_type,accomodates,number_bathroom,number_bedroom,number_beds,rating,price,cleanliness,accuracy,communication,location,check_in,value
+Tsaghkadzor,Armenia,Snowdrop ❤ of Tsaghkadzor ✔ Self Checkin ✔ Balcony,2016.0,100.0,Identity verified,241.0,Super host,Entire condominium (condo),3.0,1.0,1.0,1.0,5.0,50.0,5.0,5.0,5.0,5.0,5.0,5.0
+Tsaghkadzor,Armenia,Hillside Apartment Tsaghkadzor,2018.0,100.0,Identity verified,7.0,regular host,Entire rental unit,5.0,1.5,1.0,1.0,5.0,25.0,5.0,5.0,5.0,5.0,5.0,5.0
+Tsaghkadzor,Armenia,Mountain view apartment Квартира с видом на горы,2019.0,100.0,Identity verified,21.0,Super host,Entire rental unit,5.0,1.5,2.0,4.0,5.0,30.0,5.0,5.0,5.0,4.7,5.0,5.0
+Tsaghkadzor,Armenia,Beautiful hotel room in the city of Tsaghkadzor,2018.0,100.0,Identity verified,79.0,regular host,Entire serviced apartment,1.0,1.0,1.0,1.0,0.0,30.0,,,,,,
+Tsaghkadzor,Armenia,Crown Hotel Tsaghkadzor,2018.0,100.0,Identity not verified,5.0,regular host,Room in hotel,2.0,1.0,1.0,1.0,4.8,24.0,4.8,5.0,5.0,5.0,5.0,5.0
+Tsaghkadzor,Armenia,Chalet Nairi Garden with Russian Bath,2017.0,100.0,Identity verified,21.0,regular host,Entire chalet,6.0,2.0,2.0,4.0,4.75,90.0,4.8,5.0,5.0,4.8,5.0,4.8
+Tsaghkadzor,Armenia,Tsaghkadzor Homeland,2021.0,100.0,Identity verified,0.0,regular host,Entire villa,12.0,2.5,4.0,4.0,0.0,350.0,,,,,,
+Tsaghkadzor,Armenia,Вилла Provence in Tsakhkadzor,2019.0,,Identity verified,6.0,regular host,Entire villa,10.0,2.5,4.0,4.0,5.0,214.0,5.0,5.0,5.0,4.8,5.0,5.0
+Tsaghkadzor,Armenia,"""Soul"" Guesthouse Tsaghkadzor",2020.0,100.0,Identity not verified,3.0,regular host,Entire cottage,4.0,1.0,1.0,4.0,4.33,60.0,5.0,4.3,3.7,4.0,5.0,4.3
+Tsaghkadzor,Armenia,Уютная квартира с видом на горы,2013.0,100.0,Identity verified,14.0,regular host,Entire rental unit,4.0,1.0,1.0,1.0,4.93,50.0,4.6,5.0,5.0,4.7,4.9,4.9
+Tsaghkadzor,Armenia,Forest Castle Tsaghkadzor (Villa),2019.0,100.0,Identity verified,3.0,regular host,Entire villa,15.0,5.0,5.0,9.0,0.0,500.0,,,,,,
+Tsaghkadzor,Armenia,"Jazzy Apartment, Kechi House Tsaghkadzor",2019.0,100.0,Identity verified,5.0,regular host,Entire rental unit,4.0,1.0,1.0,1.0,0.0,60.0,,,,,,
+Tsaghkadzor,Armenia,Forest Castle Tsaghkadzor (Villa),2019.0,100.0,Identity verified,3.0,regular host,Entire villa,15.0,5.0,5.0,9.0,0.0,500.0,,,,,,
+Tsaghkadzor,Armenia,Villa with three separate apartments,2021.0,100.0,Identity verified,0.0,regular host,Room in aparthotel,12.0,4.5,6.0,9.0,0.0,270.0,,,,,,
+Tsaghkadzor,Armenia,Alaska Resort Tsaghkadzor,2016.0,100.0,Identity verified,74.0,Super host,Entire cottage,6.0,2.0,3.0,5.0,4.75,120.0,5.0,4.8,4.8,4.5,4.8,4.8
+Tsaghkadzor,Armenia,Nice apartment on Caxkadzor,2019.0,91.0,Identity verified,27.0,Super host,Entire rental unit,3.0,1.0,1.0,1.0,0.0,55.0,,,,,,
+Tsaghkadzor,Armenia,FOREST CAMP Sunny Apartment Tsaghkadzor Armenia,2018.0,,Identity verified,4.0,regular host,Entire rental unit,6.0,1.0,2.0,3.0,5.0,46.0,5.0,5.0,5.0,5.0,5.0,5.0
+Hrazdan,Armenia,Modern Villa,2017.0,69.0,Identity verified,38.0,regular host,Entire villa,8.0,2.0,2.0,2.0,0.0,120.0,,,,,,
+Tsaghkadzor,Armenia,LUXE Villa in Tsaghkadzor,2016.0,100.0,Identity not verified,5.0,regular host,Entire villa,12.0,2.0,4.0,9.0,4.0,265.0,4.2,4.2,4.0,5.0,5.0,4.2
+Tsaghkadzor,Armenia,Семейный коттедж на территории Мариотт,2019.0,90.0,Identity verified,31.0,Super host,Entire townhouse,8.0,3.5,4.0,6.0,0.0,280.0,,,,,,
+Tsaghkadzor,Armenia,Семейный коттедж на территории Мариотт,2019.0,90.0,Identity verified,31.0,Super host,Entire townhouse,8.0,3.5,4.0,6.0,0.0,280.0,,,,,,
+Tsaghkadzor,Armenia,Harmony guest house,2021.0,100.0,Identity verified,0.0,regular host,Entire serviced apartment,6.0,1.0,2.0,3.0,0.0,90.0,,,,,,
+Tsaghkadzor,Armenia,Luxore Villa Garden,2017.0,69.0,Identity verified,38.0,regular host,Entire villa,15.0,7.0,5.0,10.0,0.0,185.0,,,,,,
+Tsaghkadzor,Armenia,Nairi Rest House,2017.0,100.0,Identity verified,21.0,regular host,Shared room in hostel,4.0,1.0,1.0,4.0,4.25,10.0,4.2,4.4,4.4,4.4,4.4,4.4
+Tsaghkadzor,Armenia,A Beautiful Home in Viardo Tsakhkadzor,2017.0,80.0,Identity verified,32.0,regular host,Entire residential home  Hayk,5.0,1.5,2.0,4.0,0.0,150.0,,,,,,
+Tsaghkadzor,Armenia,Tropicana,2017.0,69.0,Identity verified,38.0,regular host,Entire residential home,8.0,3.0,3.0,6.0,0.0,205.0,,,,,,
+Tsaghkadzor,Armenia,Marco Polo,2017.0,69.0,Identity verified,38.0,regular host,Entire residential home,7.0,2.0,3.0,6.0,0.0,102.0,,,,,,
+Tsaghkadzor,Armenia,Monaco - Вилла в Цахкадзоре,2017.0,69.0,Identity verified,38.0,regular host,Entire villa,14.0,4.5,5.0,12.0,0.0,345.0,,,,,,
+Tsaghkadzor,Armenia,Diamond Villa,2017.0,69.0,Identity verified,38.0,regular host,Entire villa,14.0,3.0,4.0,8.0,0.0,165.0,,,,,,
+Tsaghkadzor,Armenia,Paradise Villa Garden,2017.0,69.0,Identity verified,38.0,regular host,Entire residential home,8.0,4.0,3.0,6.0,0.0,160.0,,,,,,
+Tsaghkadzor,Armenia,Montenegro - Вилла в Цахкадзоре,2017.0,69.0,Identity verified,38.0,regular host,Entire villa,10.0,2.5,5.0,5.0,0.0,165.0,,,,,,
+Tsaghkadzor,Armenia,Avangard,2017.0,69.0,Identity verified,38.0,regular host,Entire residential home,8.0,3.5,4.0,8.0,0.0,145.0,,,,,,
+Tsaghkadzor,Armenia,More Deluxe,2017.0,69.0,Identity verified,38.0,regular host,Entire residential home,12.0,1.5,5.0,10.0,0.0,120.0,,,,,,
+Tsaghkadzor,Armenia,Дом для хорошего отдыха,2018.0,,Identity not verified,1.0,regular host,Entire residential home,6.0,1.0,2.0,5.0,0.0,50.0,,,,,,
+Meghradzor,Armenia,Eco House in Meghradzor,2016.0,,Identity verified,0.0,regular host,Private room in cottage -Туры,6.0,1.0,2.0,6.0,0.0,13.0,,,,,,
+Tsaghkadzor,Armenia,Space Grey Villa,2017.0,69.0,Identity verified,38.0,regular host,Entire villa,15.0,5.0,5.0,10.0,0.0,140.0,,,,,,
+Tsaghkadzor,Armenia,Ricci Dark – Grill and Bar Villa,2017.0,69.0,Identity verified,38.0,regular host,Entire villa,8.0,2.0,4.0,7.0,0.0,285.0,,,,,,
+Tsaghkadzor,Armenia,Arizona Deluxe,2017.0,69.0,Identity verified,38.0,regular host,Entire residential home,8.0,3.0,3.0,6.0,0.0,185.0,,,,,,
+Tsaghkadzor,Armenia,гостевой дом в Цахкадзоре,2014.0,,Identity verified,1.0,regular host,Private room in residential home,2.0,1.0,1.0,2.0,0.0,26.0,,,,,,
+Tsaghkadzor,Armenia,Globus Kecharis,2017.0,69.0,Identity verified,38.0,regular host,Entire residential home,16.0,2.0,6.0,12.0,0.0,270.0,,,,,,
+Tsaghkadzor,Armenia,Royal Black,2017.0,69.0,Identity verified,38.0,regular host,Entire residential home,8.0,1.0,3.0,7.0,0.0,102.0,,,,,,
+Tsaghkadzor,Armenia,luxurious House in Armenia-Tzaghkadzor,2014.0,100.0,Identity verified,219.0,Super host,Entire residential home,10.0,4.0,4.0,16.0,0.0,0.0,,,,,,
+Tsaghkadzor,Armenia,A Gorgeous Home in Viardo Tsakhkadzor,2017.0,80.0,Identity verified,32.0,regular host,Entire residential home  Hayk,6.0,2.0,3.0,3.0,0.0,200.0,,,,,,
+Tsaghkadzor,Armenia,Richard Villa Garden,2017.0,69.0,Identity verified,38.0,regular host,Entire residential home,10.0,2.0,4.0,8.0,0.0,205.0,,,,,,
+Tsaghkadzor,Armenia,BigBox,2017.0,69.0,Identity verified,38.0,regular host,Entire residential home,10.0,2.0,4.0,8.0,0.0,150.0,,,,,,
+Tsaghkadzor,Armenia,Посуточный дом в Цахкадзоре,2014.0,,Identity verified,1.0,regular host,Entire residential home,7.0,1.0,2.0,2.0,0.0,50.0,,,,,,
+Tsaghkadzor,Armenia,2 person room,2020.0,100.0,Identity verified,5.0,regular host,Private room in serviced apartment,2.0,1.0,1.0,1.0,0.0,0.0,,,,,,
+Tsaghkadzor,Armenia,Дом в Цахкадзоре. осабняк. коттедж,2017.0,100.0,Identity not verified,2.0,regular host,Entire residential home,8.0,1.0,2.0,6.0,0.0,170.0,,,,,,
+Tsaghkadzor,Armenia,Посуточная аренд домов в Цахкадзоре,2014.0,,Identity verified,1.0,regular host,Entire residential home,5.0,1.0,2.0,2.0,0.0,163.0,,,,,,
+Tsaghkadzor,Armenia,посуточный дом в Цахкадзоре,2014.0,,Identity verified,1.0,regular host,Entire residential home,12.0,2.0,3.0,5.0,0.0,190.0,,,,,,
+Tsaghkadzor,Armenia,посуточный дом в Цахкадзоре,2014.0,,Identity verified,1.0,regular host,Entire residential home,10.0,1.0,4.0,9.0,0.0,203.0,,,,,,
+Tsaghkadzor,Armenia,посуточный дом в цахкадзоре,2014.0,,Identity verified,1.0,regular host,Entire residential home,10.0,2.0,3.0,4.0,0.0,271.0,,,,,,
+Tsaghkadzor,Armenia,посуточный дом в Цаькадзоре Армения,2014.0,,Identity verified,1.0,regular host,Entire residential home,10.0,2.0,3.0,4.0,0.0,271.0,,,,,,
+Tsaghkadzor,Armenia,посуточные дома в Цахкадзоре,2014.0,,Identity verified,1.0,regular host,Entire residential home,8.0,1.0,2.0,5.0,0.0,135.0,,,,,,
+Tsaghkadzor,Armenia,дом продан,2018.0,100.0,Identity not verified,1.0,regular host,Entire residential home,9.0,2.0,3.0,3.0,0.0,47.0,,,,,,

@@ -1,0 +1,3 @@
+city,country,name,host_since,host_response_rate,host_identity_verified,review,superhost,property_type,accomodates,number_bathroom,number_bedroom,number_beds,rating,price,cleanliness,accuracy,communication,location,check_in,value
+Kapan,Armenia,Country house overlooking Paradise,2014.0,,Identity verified,7.0,regular host,Entire residential home,7.0,1.0,2.0,6.0,4.6,29.0,4.4,4.4,5.0,4.8,4.4,4.6
+Kapan,Armenia,K7 Armenia Mountain Bunker,2015.0,100.0,Identity verified,4.0,regular host,Private room in tiny house,16.0,0.5,1.0,2.0,4.75,10.0,4.5,5.0,5.0,5.0,4.5,5.0

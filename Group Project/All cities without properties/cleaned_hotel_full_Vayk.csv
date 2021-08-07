@@ -1,0 +1,34 @@
+city,country,name,host_since,host_response_rate,host_identity_verified,review,superhost,property_type,accomodates,number_bathroom,number_bedroom,number_beds,rating,price,cleanliness,accuracy,communication,location,check_in,value
+Vayk,Armenia,Hotel Lider Complex:Twin Room,2019.0,100.0,Identity not verified,4.0,regular host,Room in hotel,2.0,1.0,1.0,1.0,5.0,28.0,5.0,5.0,5.0,5.0,5.0,4.7
+Vayk,Armenia,Hotel Lider Complex:Family Room.,2019.0,100.0,Identity not verified,4.0,regular host,Room in hotel,5.0,1.0,2.0,3.0,0.0,43.0,,,,,,
+Vayk,Armenia,Hotel Lider Complex :Single Room,2019.0,100.0,Identity not verified,4.0,regular host,Room in hotel,1.0,1.0,1.0,1.0,0.0,25.0,,,,,,
+Yeghegnadzor,Armenia,Nataly Guest House,2017.0,100.0,Identity not verified,7.0,regular host,Private room in bed and breakfast,11.0,3.0,6.0,9.0,5.0,15.0,5.0,5.0,5.0,5.0,5.0,5.0
+Areni,Armenia,Areni wine cellar,2016.0,100.0,Identity verified,13.0,regular host,Private room in bed and breakfast,3.0,1.0,1.0,0.0,4.9,15.0,5.0,4.8,4.7,4.9,4.7,4.8
+Yeghegnadzor,Armenia,Karine B&B,2017.0,,Identity not verified,7.0,regular host,Entire guesthouse,16.0,6.0,9.0,23.0,4.57,10.0,5.0,4.6,4.4,5.0,5.0,4.4
+Areni,Armenia,room for one person,2016.0,100.0,Identity not verified,12.0,regular host,Private room in guesthouse,1.0,1.0,1.0,1.0,0.0,14.0,,,,,,
+Vayk,Armenia,Big House,2019.0,,Identity verified,0.0,regular host,Private room in residential home,11.0,1.5,4.0,11.0,0.0,10.0,,,,,,
+Yeghegnadzor,Armenia,Shushan's B&B,2017.0,,Identity not verified,4.0,regular host,Private room in residential home,5.0,1.0,3.0,5.0,4.75,16.0,5.0,4.8,5.0,5.0,5.0,4.8
+Yeghegnadzor,Armenia,I and my family are waiting for you with love.,2019.0,,Identity verified,5.0,regular host,Private room in residential home,2.0,1.5,2.0,4.0,0.0,14.0,,,,,,
+Arpi,Armenia,Relaxing by the river.,2017.0,100.0,Identity not verified,4.0,regular host,Private room in bed and breakfast,16.0,1.0,8.0,16.0,4.0,20.0,4.5,4.5,5.0,4.0,4.8,4.5
+Vayk,Armenia,Big House,2019.0,,Identity verified,0.0,regular host,Private room in residential home,11.0,1.5,4.0,11.0,0.0,10.0,,,,,,
+Vayk,Armenia,Hotel Lider Complex :Single Room,2019.0,100.0,Identity not verified,4.0,regular host,Room in hotel,1.0,1.0,1.0,1.0,0.0,19.0,,,,,,
+Vayk,Armenia,Hotel Leader Complex. Family Room,2019.0,100.0,Identity not verified,4.0,regular host,Room in hotel,5.0,1.0,3.0,3.0,0.0,43.0,,,,,,
+Vayk,Armenia,Hotel Lider Complex:Triple Room,2019.0,100.0,Identity not verified,4.0,regular host,Room in hotel,3.0,1.0,1.0,3.0,0.0,32.0,,,,,,
+Vayk,Armenia,Hotel Lide Complex:Double Room,2019.0,100.0,Identity not verified,4.0,regular host,Room in hotel,2.0,1.0,1.0,1.0,0.0,28.0,,,,,,
+Yeghegnadzor,Armenia,Margaryan's Guest House/Twin Room,2021.0,100.0,Identity verified,1.0,regular host,Private room in bed and breakfast,2.0,1.0,1.0,2.0,0.0,14.0,,,,,,
+Gnishik,Armenia,"Eco Lodge in Gnishik, Vayots Dzor",2016.0,67.0,Identity verified,0.0,regular host,Private room in nature lodge,10.0,4.0,4.0,4.0,0.0,44.0,,,,,,
+Yeghegnadzor,Armenia,B&B Hasmik,2016.0,,Identity not verified,3.0,regular host,Entire guesthouse,12.0,6.0,6.0,11.0,5.0,30.0,5.0,5.0,5.0,5.0,5.0,5.0
+Yeghegnadzor,Armenia,B&B Ruzan the warm welcome,2013.0,,Identity verified,11.0,regular host,Room in bed and breakfast,8.0,2.5,5.0,12.0,4.67,17.0,5.0,4.9,5.0,4.7,4.9,4.4
+Vayk,Armenia,Hotel Leader Complex:Standard Triple Room,2019.0,100.0,Identity not verified,4.0,regular host,Room in hotel,3.0,1.0,1.0,3.0,0.0,32.0,,,,,,
+Vayk,Armenia,Hotel Lider Complex :Single Room,2019.0,100.0,Identity not verified,4.0,regular host,Room in hotel,1.0,1.0,1.0,1.0,0.0,19.0,,,,,,
+Vayk,Armenia,Hotel Lider Complex:Suite Room,2019.0,100.0,Identity not verified,4.0,regular host,Room in hotel,2.0,1.0,1.0,2.0,0.0,43.0,,,,,,
+Yeghegnadzor,Armenia,Margaryan's Guest House/Twin Room,2021.0,100.0,Identity verified,1.0,regular host,Private room in bed and breakfast,2.0,1.0,1.0,2.0,0.0,14.0,,,,,,
+Yeghegnadzor,Armenia,Margaryan's Guest House/Twin Room,2021.0,100.0,Identity verified,1.0,regular host,Private room in bed and breakfast,2.0,1.5,1.0,1.0,0.0,14.0,,,,,,
+Yeghegnadzor,Armenia,BOOK 3 nights and get a SURPRISE!!!,2019.0,,Identity verified,5.0,regular host,Private room in residential home,5.0,1.0,2.0,4.0,0.0,12.0,,,,,,
+Yeghegnadzor,Armenia,Shushan's B&B,2017.0,,Identity not verified,4.0,regular host,Private room,4.0,1.0,3.0,4.0,0.0,17.0,,,,,,
+Yeghegnadzor,Armenia,"""Double/Tween Room"" Green Stone BH",2016.0,100.0,Identity not verified,2.0,regular host,Private room in bed and breakfast,2.0,1.0,1.0,2.0,0.0,65.0,,,,,,
+Yeghegnadzor,Armenia,Vera,2017.0,100.0,Identity not verified,4.0,regular host,Private room in residential home,1.0,2.0,3.0,6.0,0.0,18.0,,,,,,
+Yeghegnadzor,Armenia,"""Double Room"" Green Stone BH",2016.0,100.0,Identity not verified,2.0,regular host,Private room in bed and breakfast,2.0,1.0,1.0,1.0,0.0,65.0,,,,,,
+Areni,Armenia,Areni Wine Garden Арени вайн гарден,2019.0,,Identity not verified,4.0,regular host,Private room in bed and breakfast,2.0,1.0,1.0,2.0,0.0,24.0,,,,,,
+Yeghegnadzor,Armenia,"OldBridge B&B,The Ground Floor Room",2015.0,,Identity not verified,3.0,regular host,Private room in residential home,2.0,0.5,1.0,2.0,0.0,27.0,,,,,,
+Gomk,Armenia,Quadruple room |food included |Private Bathroom,2019.0,,Identity verified,2.0,regular host,Private room in cottage,4.0,1.0,1.0,4.0,0.0,42.0,,,,,,

@@ -1,0 +1,11 @@
+city,country,name,host_since,host_response_rate,host_identity_verified,review,superhost,property_type,accomodates,number_bathroom,number_bedroom,number_beds,rating,price,cleanliness,accuracy,communication,location,check_in,value
+Odzun,Armenia,Private Villa at Odzun Monastery | Առանձնատուն,2015.0,100.0,Identity verified,27.0,Super host,Entire villa,6.0,2.0,2.0,4.0,5.0,13.0,5.0,5.0,5.0,5.0,5.0,5.0
+Alaverdi,Armenia,ARMBEE Honey Farm 2,2019.0,100.0,Identity verified,5.0,regular host,Entire chalet,2.0,1.5,1.0,2.0,5.0,30.0,5.0,5.0,5.0,5.0,5.0,5.0
+Dilijan,Armenia,Armenian village house in Dilijan,2019.0,100.0,Identity verified,42.0,regular host,Entire residential home,6.0,1.5,2.0,3.0,4.63,19.0,4.6,4.6,4.8,4.6,4.8,4.6
+Dilijan,Armenia,Cosy and comfortable apartment with a great view,2018.0,100.0,Identity verified,26.0,Super host,Entire rental unit,4.0,2.0,1.0,1.0,4.96,70.0,5.0,5.0,5.0,4.9,5.0,4.9
+Berdavan,Armenia,Berdavan guesthouse,2019.0,100.0,Identity verified,0.0,regular host,Private room in farm stay,8.0,1.0,3.0,8.0,0.0,15.0,,,,,,
+Dilijan,Armenia,Guesthouse 121,2019.0,100.0,Identity verified,31.0,Super host,Hut,2.0,1.0,1.0,2.0,4.87,35.0,4.9,4.8,4.8,4.7,4.9,4.8
+Dilijan,Armenia,Guesthouse 121,2019.0,100.0,Identity verified,31.0,Super host,Hut,2.0,1.0,1.0,2.0,4.87,35.0,4.9,4.8,4.8,4.7,4.9,4.8
+Dilijan,Armenia,Dilijan Town Inn,2015.0,100.0,Identity verified,85.0,regular host,Entire residential home,6.0,1.5,2.0,3.0,4.85,35.0,4.8,4.8,4.9,5.0,4.8,4.8
+Dilijan,Armenia,"""Petit Dilijan - Spring""",2014.0,,Identity not verified,31.0,regular host,Entire guesthouse,2.0,1.0,1.0,2.0,0.0,21.0,,,,,,
+Dilijan,Armenia,Dilijan Garden House,2015.0,100.0,Identity verified,85.0,regular host,Entire villa,15.0,2.0,4.0,7.0,4.71,153.0,4.9,4.4,5.0,5.0,5.0,4.4

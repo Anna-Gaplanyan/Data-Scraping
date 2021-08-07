@@ -1,0 +1,18 @@
+city,country,name,host_since,host_response_rate,host_identity_verified,review,superhost,property_type,accomodates,number_bathroom,number_bedroom,number_beds,rating,price,cleanliness,accuracy,communication,location,check_in,value
+Jermuk,Armenia,Guest House Forte двухместная однокомнатная,2017.0,100.0,Identity verified,51.0,regular host,Entire rental unit,2.0,1.0,0.0,1.0,4.63,20.0,4.8,4.8,4.9,4.9,5.0,4.6
+Jermuk,Armenia,"Guest house in Jermuk , cozy and comfortable",2018.0,100.0,Identity not verified,6.0,regular host,Entire rental unit,2.0,1.0,1.0,1.0,5.0,26.0,5.0,5.0,5.0,5.0,5.0,4.8
+Jermuk,Armenia,Guest House Forte двухкомнатная,2017.0,100.0,Identity verified,51.0,regular host,Entire rental unit,4.0,1.0,2.0,3.0,4.61,29.0,4.9,4.9,5.0,4.9,4.9,4.7
+Jermuk,Armenia,Guest House Forte трехкомнатная,2017.0,100.0,Identity verified,51.0,regular host,Entire rental unit,5.0,1.0,2.0,3.0,4.82,40.0,4.9,5.0,5.0,4.9,5.0,4.9
+Jermuk,Armenia,Jermuk в етом слове все сказонна,2020.0,0.0,Identity verified,0.0,regular host,Entire rental unit,4.0,1.0,0.0,1.0,0.0,16.0,,,,,,
+Vayk,Armenia,Hotel Lider Complex:Twin Room,2019.0,100.0,Identity not verified,4.0,regular host,Room in hotel,2.0,1.0,1.0,1.0,5.0,28.0,5.0,5.0,5.0,5.0,5.0,4.7
+Jermuk,Armenia,Tigran Guest house,2020.0,,Identity verified,0.0,regular host,Private room in rental unit,5.0,1.5,3.0,3.0,0.0,27.0,,,,,,
+Vayk,Armenia,Hotel Lider Complex:Family Room.,2019.0,100.0,Identity not verified,4.0,regular host,Room in hotel,5.0,1.0,2.0,3.0,0.0,43.0,,,,,,
+Vayk,Armenia,Hotel Lider Complex :Single Room,2019.0,100.0,Identity not verified,4.0,regular host,Room in hotel,1.0,1.0,1.0,1.0,0.0,25.0,,,,,,
+Vayk,Armenia,Hotel Lide Complex:Double Room,2019.0,100.0,Identity not verified,4.0,regular host,Room in hotel,2.0,1.0,1.0,1.0,0.0,28.0,,,,,,
+Vayk,Armenia,Hotel Lider Complex:Triple Room,2019.0,100.0,Identity not verified,4.0,regular host,Room in hotel,3.0,1.0,1.0,3.0,0.0,32.0,,,,,,
+Vayk,Armenia,Отель Лидер Комплекс:Стандартный трехместный номер,2019.0,100.0,Identity not verified,4.0,regular host,Room in hotel,3.0,1.0,1.0,3.0,0.0,32.0,,,,,,
+Vayk,Armenia,Отель Лидер Комплекс.Семейный Номер,2019.0,100.0,Identity not verified,4.0,regular host,Room in hotel,5.0,1.0,3.0,3.0,0.0,43.0,,,,,,
+Vayk,Armenia,Hotel Lider Complex :Single Room,2019.0,100.0,Identity not verified,4.0,regular host,Room in hotel,1.0,1.0,1.0,1.0,0.0,19.0,,,,,,
+Vayk,Armenia,Hotel Lider Complex:Suite Room,2019.0,100.0,Identity not verified,4.0,regular host,Room in hotel,2.0,1.0,1.0,2.0,0.0,43.0,,,,,,
+Vayk,Armenia,Big House,2019.0,,Identity verified,0.0,regular host,Private room in residential home,11.0,1.5,4.0,11.0,0.0,10.0,,,,,,
+Gomk,Armenia,Quadruple room |food included |Private Bathroom,2019.0,,Identity verified,2.0,regular host,Private room in cottage,4.0,1.0,1.0,4.0,0.0,42.0,,,,,,

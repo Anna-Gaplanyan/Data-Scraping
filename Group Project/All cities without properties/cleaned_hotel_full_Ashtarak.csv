@@ -1,0 +1,118 @@
+city,country,name,host_since,host_response_rate,host_identity_verified,review,superhost,property_type,accomodates,number_bathroom,number_bedroom,number_beds,rating,price,cleanliness,accuracy,communication,location,check_in,value
+Ashtarak,Armenia,Beautiful Ashtarak,2020.0,33.0,Identity verified,0.0,regular host,Entire rental unit,3.0,1.0,2.0,2.0,0.0,10.0,,,,,,
+Tegher,Armenia,Гостьевой домик в горах села Тегер,2015.0,50.0,Identity not verified,26.0,regular host,Entire guest suite,3.0,1.0,1.0,2.0,4.83,25.0,4.8,4.8,4.7,4.8,5.0,4.8
+Ashtarak,Armenia,The House with the Mezzanine - Дом с мезонином,2017.0,100.0,Identity verified,5.0,regular host,Private room in residential home,4.0,1.0,2.0,4.0,4.2,21.0,3.2,4.0,4.2,3.6,4.0,4.2
+Baghramyan,Armenia,"Green paradise near Yerevan,free transfer,SIM cart",2019.0,100.0,Identity verified,13.0,Super host,Entire residential home,8.0,2.5,2.0,3.0,5.0,106.0,4.8,4.9,5.0,5.0,5.0,4.9
+Vagharshapat,Armenia,Art home,2019.0,89.0,Identity verified,6.0,regular host,Entire rental unit,2.0,1.0,1.0,2.0,5.0,14.0,4.7,5.0,5.0,5.0,5.0,5.0
+Voskevaz,Armenia,Armenian Village Corner and Tours,2015.0,50.0,Identity not verified,128.0,regular host,Entire residential home  Apartment & Tours,5.0,1.0,2.0,6.0,5.0,45.0,5.0,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,Moris&Sona house,2014.0,100.0,Identity verified,395.0,Super host,Entire guesthouse,2.0,1.0,1.0,2.0,4.84,14.0,4.8,5.0,5.0,4.7,4.9,4.9
+Yerevan,Armenia,Стильная квартира с видом на Арарат.,2019.0,100.0,Identity not verified,18.0,regular host,Entire rental unit,4.0,1.0,1.0,2.0,5.0,29.0,4.9,5.0,5.0,4.8,5.0,5.0
+Parpi,Armenia,Villa Mimi,2015.0,100.0,Identity verified,0.0,regular host,Private room in residential home,2.0,1.5,1.0,2.0,0.0,12.0,,,,,,
+Yerevan,Armenia,Comfort apartment,2018.0,100.0,Identity not verified,39.0,Super host,Entire rental unit,3.0,1.0,1.0,2.0,5.0,14.0,5.0,4.8,5.0,4.5,5.0,4.7
+Yerevan,Armenia,#4 apartment!,2017.0,100.0,Identity verified,47.0,regular host,Entire rental unit,2.0,1.0,0.0,2.0,5.0,21.0,5.0,5.0,5.0,4.8,5.0,5.0
+Yerevan,Armenia,Modern Condo with view of Mount Ararat!,2018.0,100.0,Identity not verified,8.0,Super host,Entire condominium (condo),2.0,1.0,1.0,1.0,4.86,20.0,5.0,4.9,5.0,4.9,5.0,4.9
+Yerevan,Armenia,➤ Modern One BDR ★ by Dalma Mall,2020.0,94.0,Identity verified,189.0,Super host,Entire rental unit  Inn,3.0,1.0,1.0,1.0,5.0,52.0,4.9,4.9,4.8,4.9,4.8,4.8
+Baghramyan,Armenia,"Дом...милый дом,рядом с Ереваном,free transfer,SIM",2019.0,100.0,Identity verified,13.0,Super host,Entire residential home,8.0,1.0,2.0,4.0,0.0,48.0,,,,,,
+Yerevan,Armenia,➤ Next to Dalma Mall ★ Two BDR Apartment,2020.0,94.0,Identity verified,189.0,Super host,Entire rental unit  Inn,5.0,1.0,2.0,2.0,5.0,54.0,5.0,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,Идеальные Апартаменты Ideal Apartments,2021.0,100.0,Identity verified,5.0,regular host,Entire residential home,4.0,1.0,1.0,2.0,5.0,30.0,5.0,5.0,5.0,4.0,5.0,5.0
+Yerevan,Armenia,Уютная квартира около станции метро,2019.0,100.0,Identity verified,11.0,regular host,Entire rental unit,2.0,1.0,1.0,1.0,5.0,25.0,4.9,5.0,5.0,4.9,5.0,4.9
+Yerevan,Armenia,Kievyan Bridge Luxury View Loft,2018.0,100.0,Identity verified,27.0,Super host,Entire rental unit,4.0,1.0,1.0,3.0,5.0,34.0,5.0,5.0,5.0,4.8,5.0,4.9
+Yerevan,Armenia,"Studio apartment with balcony, 10min from center",2018.0,100.0,Identity verified,17.0,regular host,Entire loft,3.0,1.0,0.0,2.0,4.76,21.0,4.7,4.9,5.0,4.8,4.9,4.8
+Parpi,Armenia,Villa Mimi,2015.0,100.0,Identity verified,0.0,regular host,Private room in residential home,2.0,1.5,1.0,2.0,0.0,12.0,,,,,,
+Vagharshapat,Armenia,THE HEAVEN ECHMIADZIN,2014.0,100.0,Identity verified,7.0,regular host,Entire residential home,6.0,1.0,2.0,2.0,5.0,27.0,4.8,4.8,5.0,5.0,5.0,5.0
+Yerevan,Armenia,Lenin apartment,2015.0,100.0,Identity verified,219.0,Super host,Entire rental unit,4.0,1.5,1.0,4.0,4.91,37.0,4.9,4.9,4.8,4.4,4.9,4.8
+Yerevan,Armenia,2-BDR with Aragats View at RIS Dalma Collection,2014.0,100.0,Identity verified,536.0,Super host,Entire serviced apartment,6.0,1.0,2.0,3.0,5.0,94.0,5.0,4.9,5.0,4.7,5.0,4.9
+Yerevan,Armenia,Fancy Loft with Terrace at RIS Dalma Collection,2014.0,100.0,Identity verified,536.0,Super host,Entire serviced apartment,4.0,1.0,1.0,2.0,5.0,103.0,5.0,5.0,4.9,4.9,5.0,4.8
+Yerevan,Armenia,Cozy apartment in Yerevan,2015.0,100.0,Identity not verified,21.0,Super host,Entire rental unit,4.0,1.0,1.0,2.0,5.0,19.0,5.0,5.0,5.0,4.8,5.0,5.0
+Aghdzk,Armenia,Private Guesthouse in Historic Village,2018.0,,Identity not verified,4.0,regular host,Private room in residential home,5.0,1.0,2.0,5.0,5.0,50.0,5.0,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,Comfortable apartments with positive owners),2021.0,100.0,Identity verified,5.0,regular host,Entire residential home,4.0,1.0,1.0,2.0,0.0,30.0,,,,,,
+Yerevan,Armenia,Fashionable APRT for 4prs at RIS Dalma Collection,2014.0,100.0,Identity verified,536.0,Super host,Entire serviced apartment,4.0,1.0,1.0,3.0,4.93,84.0,5.0,5.0,4.9,4.7,4.7,4.7
+Yerevan,Armenia,Прекрасным видом квартира в городе Ереван,2021.0,25.0,Identity verified,0.0,regular host,Entire rental unit,4.0,0.5,2.0,0.0,0.0,10.0,,,,,,
+Aghdzk,Armenia,Private Guesthouse in Historic Village,2018.0,,Identity not verified,4.0,regular host,Private room in residential home,5.0,1.0,2.0,5.0,5.0,50.0,5.0,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,Leningradyan New building apartment,2015.0,100.0,Identity verified,152.0,regular host,Entire chalet,3.0,1.0,1.0,1.0,4.33,28.0,4.7,5.0,5.0,4.7,5.0,5.0
+Yerevan,Armenia,Современная квартира в Ереване,2017.0,100.0,Identity verified,60.0,regular host,Entire rental unit,5.0,1.0,3.0,4.0,0.0,35.0,,,,,,
+Yerevan,Armenia,➤ 12th floor Two BDR nearby Dalma Mall,2020.0,94.0,Identity verified,189.0,Super host,Entire rental unit  Inn,5.0,1.0,2.0,2.0,4.38,55.0,4.9,4.8,4.6,4.8,4.8,4.6
+Yerevan,Armenia,COMFORTABLE APARTMENTS,2021.0,100.0,Identity verified,5.0,regular host,Entire residential home,4.0,1.0,1.0,2.0,0.0,30.0,,,,,,
+Yerevan,Armenia,RELAX and COMFORT,2021.0,100.0,Identity verified,5.0,regular host,Entire serviced apartment,4.0,1.5,1.0,2.0,0.0,27.0,,,,,,
+Yerevan,Armenia,Kvartira po sutchni,2018.0,0.0,Identity verified,3.0,regular host,Entire rental unit,6.0,1.0,2.0,1.0,0.0,25.0,,,,,,
+Yerevan,Armenia,Lovely apartment in the New building,2017.0,69.0,Identity verified,21.0,regular host,Entire rental unit,5.0,2.0,2.0,3.0,0.0,50.0,,,,,,
+Yerevan,Armenia,Уютный гостевой дом,2016.0,100.0,Identity verified,4.0,regular host,Entire guesthouse,3.0,1.5,1.0,2.0,0.0,26.0,,,,,,
+Yerevan,Armenia,Stylish 1-BDR Apartment at RIS Dalma Collection,2014.0,100.0,Identity verified,536.0,Super host,Entire serviced apartment,4.0,1.0,1.0,1.0,4.79,84.0,4.8,4.9,4.9,4.9,4.9,4.8
+Yerevan,Armenia,Уютно и мило как дома! Comfy & nice like at home!,2016.0,91.0,Identity not verified,26.0,Super host,Entire rental unit,3.0,1.5,1.0,2.0,4.8,19.0,5.0,5.0,5.0,4.9,5.0,5.0
+Yerevan,Armenia,LUXURY City Living - DISINFECTED + Guide-Driver,2017.0,100.0,Identity verified,130.0,Super host,Entire rental unit,8.0,1.5,3.0,7.0,5.0,57.0,5.0,5.0,5.0,4.9,5.0,5.0
+Yerevan,Armenia,2-к кв. рядом с МЦ АСТХИК/2 r flat near MC ASTKHIK,2016.0,91.0,Identity not verified,26.0,Super host,Entire rental unit,4.0,1.5,2.0,3.0,0.0,24.0,,,,,,
+Yerevan,Armenia,Yerevan Home with a yoga hammock,2018.0,83.0,Identity verified,0.0,regular host,Entire rental unit,5.0,1.0,1.0,3.0,0.0,17.0,,,,,,
+Vagharshapat,Armenia,Large two-floor house with swimming pool,2014.0,,Identity verified,0.0,regular host,Entire villa,8.0,2.0,3.0,6.0,0.0,110.0,,,,,,
+Yerevan,Armenia,Stylish 1-BDR Apartment at RIS Dalma Collection,2014.0,100.0,Identity verified,536.0,Super host,Entire serviced apartment,4.0,1.0,1.0,1.0,4.79,84.0,4.8,4.9,4.9,4.9,4.9,4.8
+Yerevan,Armenia,комната 102,2019.0,,Identity verified,0.0,regular host,Room in hotel,2.0,1.0,1.0,1.0,0.0,21.0,,,,,,
+Yerevan,Armenia,Entire appartment in Yerevan,2014.0,80.0,Identity verified,47.0,regular host,Entire rental unit,3.0,1.0,1.0,3.0,4.79,20.0,4.8,4.8,4.9,4.7,4.8,4.8
+Yerevan,Armenia,Kvartira po sutochno,2018.0,0.0,Identity verified,3.0,regular host,Entire rental unit,6.0,1.0,2.0,0.0,0.0,25.0,,,,,,
+Ashtarak,Armenia,LIBERAL WHITE HOUSE,2012.0,,Identity verified,5.0,regular host,Entire residential home,7.0,1.0,3.0,5.0,0.0,150.0,,,,,,
+Yerevan,Armenia,Inga Hotel Yerevan Number 204,2018.0,90.0,Identity verified,10.0,regular host,Room in hotel  Hotel Yerevan,2.0,1.0,1.0,1.0,5.0,35.0,5.0,5.0,4.8,4.6,5.0,4.8
+Yerevan,Armenia,ALEM HOTEL,2021.0,100.0,Identity verified,2.0,regular host,Room in hotel,7.0,3.0,6.0,15.0,0.0,31.0,,,,,,
+Aragatsotn,Armenia,Byurakan Guesthouse - Double Room (3),2019.0,100.0,Identity verified,0.0,regular host,Room in hotel,3.0,1.0,0.0,2.0,0.0,39.0,,,,,,
+Vagharshapat,Armenia,RICHMIND HOTEL- в гормонии с мыслями,2019.0,,Identity verified,0.0,regular host,Room in hotel,1.0,1.0,1.0,1.0,0.0,20.0,,,,,,
+Yerevan,Armenia,Studio,2016.0,100.0,Identity verified,10.0,regular host,Entire rental unit,2.0,1.0,1.0,2.0,5.0,20.0,5.0,5.0,5.0,5.0,5.0,5.0
+Aragatsotn,Armenia,Byurakan Guesthouse - Room with a view (2),2019.0,100.0,Identity verified,0.0,regular host,Room in hotel,3.0,1.0,0.0,2.0,0.0,45.0,,,,,,
+Yerevan,Armenia,Comfortable house in Yerevan!,2017.0,100.0,Identity not verified,8.0,regular host,Entire residential home,6.0,1.0,2.0,2.0,4.71,28.0,4.4,4.7,4.9,4.6,4.9,4.9
+Yerevan,Armenia,4Guest Hotel #2 Room,2017.0,100.0,Identity verified,84.0,Super host,Room in hotel,2.0,1.0,1.0,2.0,5.0,33.0,5.0,5.0,5.0,4.9,5.0,4.9
+Yerevan,Armenia,Spacious deluxe apartment with garden - Davitashen,2019.0,100.0,Identity verified,0.0,regular host,Entire rental unit,5.0,1.0,2.0,3.0,0.0,21.0,,,,,,
+Yerevan,Armenia,Просторная 3-х комнатная квартира в центре,2016.0,100.0,Identity not verified,8.0,regular host,Entire rental unit,5.0,1.0,2.0,3.0,4.88,41.0,4.8,5.0,5.0,4.8,5.0,4.9
+Yerevan,Armenia,Inga Hotel Yerevan Number 102,2018.0,90.0,Identity verified,10.0,regular host,Room in boutique hotel  Hotel Yerevan,3.0,1.0,1.0,1.0,0.0,30.0,,,,,,
+Yerevan,Armenia,Inga Hotel Yerevan Number 106,2018.0,90.0,Identity verified,10.0,regular host,Room in hotel  Hotel Yerevan,2.0,1.0,1.0,1.0,0.0,31.0,,,,,,
+Yerevan,Armenia,Fuii,2021.0,80.0,Identity verified,0.0,regular host,Entire rental unit,5.0,1.0,2.0,2.0,0.0,43.0,,,,,,
+Vagharshapat,Armenia,RICHMIND HOTEL- в гормонии с мыслями,2019.0,,Identity verified,0.0,regular host,Room in hotel,2.0,1.0,0.0,0.0,0.0,26.0,,,,,,
+Yerevan,Armenia,Номер-105,2018.0,90.0,Identity verified,10.0,regular host,Room in hotel  Hotel Yerevan,2.0,1.0,1.0,1.0,0.0,29.0,,,,,,
+Byurakan,Armenia,Tonatsuyts Guest House-Triple Room w/ a Double Bed,2019.0,100.0,Identity verified,0.0,regular host,Private room in guesthouse,3.0,1.0,0.0,2.0,0.0,34.0,,,,,,
+Vagharshapat,Armenia,RICHMIND HOTEL- в гормонии с мыслями,2019.0,,Identity verified,0.0,regular host,Room in hotel,3.0,1.0,1.0,3.0,0.0,39.0,,,,,,
+Yerevan,Armenia,New & nice room in new hotel,2018.0,90.0,Identity verified,10.0,regular host,Room in hotel  Hotel Yerevan,2.0,1.0,1.0,1.0,0.0,33.0,,,,,,
+Yerevan,Armenia,Inga Hotel Yerevan Number 202,2018.0,90.0,Identity verified,10.0,regular host,Room in hotel  Hotel Yerevan,2.0,1.0,1.0,1.0,0.0,31.0,,,,,,
+Yerevan,Armenia,Уютная квартира с красивым видом на город,2019.0,100.0,Identity not verified,1.0,regular host,Entire condominium (condo),3.0,1.5,1.0,1.0,0.0,27.0,,,,,,
+Yerevan,Armenia,Luxurious Tranquility 10min to Center+GUIDE-DRIVER,2018.0,,Identity verified,71.0,Super host,Entire rental unit  & Tanya,8.0,1.5,3.0,7.0,4.89,53.0,5.0,5.0,5.0,4.7,5.0,4.8
+Yerevan,Armenia,Уютная квартира с красивым видом на город,2019.0,100.0,Identity not verified,1.0,regular host,Entire condominium (condo),3.0,1.5,1.0,1.0,0.0,27.0,,,,,,
+Yerevan,Armenia,"Vahagni Residence, Luxury Villa with Private Pool",2020.0,34.0,Identity verified,5.0,regular host,Entire residential home  Tigran,8.0,4.5,4.0,1.0,0.0,300.0,,,,,,
+Byurakan,Armenia,Tonatsuyts Guest House- Family Room,2019.0,100.0,Identity verified,0.0,regular host,Private room in guesthouse,4.0,1.0,0.0,3.0,0.0,42.0,,,,,,
+Vagharshapat,Armenia,RICHMIND HOTEL- в гормонии с мыслями,2019.0,,Identity verified,0.0,regular host,Room in hotel,1.0,1.0,1.0,2.0,0.0,23.0,,,,,,
+Yerevan,Armenia,Luxury And Comfortable Villa in Ashtarak,2021.0,100.0,Identity verified,0.0,regular host,Entire villa,10.0,2.0,3.0,5.0,0.0,302.0,,,,,,
+Yerevan,Armenia,Inga Hotel Yerevan Number 209,2018.0,90.0,Identity verified,10.0,regular host,Room in hotel  Hotel Yerevan,4.0,1.0,1.0,2.0,0.0,29.0,,,,,,
+Yerevan,Armenia,"Garni 2 bedroom Guest House.New,nice,amazing place",2016.0,100.0,Identity verified,5.0,regular host,Entire residential home,6.0,1.0,2.0,3.0,0.0,62.0,,,,,,
+Byurakan,Armenia,Tonatsuyts Guest House- Triple Room,2019.0,100.0,Identity verified,0.0,regular host,Private room in guesthouse,3.0,1.0,0.0,3.0,0.0,31.0,,,,,,
+Yerevan,Armenia,4Guest Hotel #4 Room ( just opened),2017.0,100.0,Identity verified,84.0,Super host,Room in boutique hotel,4.0,1.0,1.0,1.0,5.0,50.0,5.0,5.0,5.0,4.7,5.0,5.0
+Yerevan,Armenia,Caravan hotel,2019.0,,Identity verified,0.0,regular host,Room in hotel,2.0,1.0,1.0,1.0,0.0,21.0,,,,,,
+Yerevan,Armenia,Inga Hotel Yerevan Number 201,2018.0,90.0,Identity verified,10.0,regular host,Room in hotel  Hotel Yerevan,2.0,1.0,1.0,1.0,0.0,31.0,,,,,,
+Byurakan,Armenia,Twin room,2019.0,100.0,Identity not verified,1.0,regular host,Private room in bed and breakfast,2.0,1.0,1.0,2.0,0.0,30.0,,,,,,
+Yerevan,Armenia,New number in new hotel,2018.0,90.0,Identity verified,10.0,regular host,Room in hotel  Hotel Yerevan,4.0,1.0,1.0,2.0,0.0,32.0,,,,,,
+Yerevan,Armenia,Inga Hotel Yerevan Number 105,2018.0,90.0,Identity verified,10.0,regular host,Room in hotel  Hotel Yerevan,2.0,1.0,1.0,1.0,0.0,31.0,,,,,,
+Byurakan,Armenia,Tonatsuyts Guest House- Quadruple Room,2019.0,100.0,Identity verified,0.0,regular host,Private room in guesthouse,4.0,1.0,0.0,4.0,0.0,37.0,,,,,,
+Byurakan,Armenia,Tonatsuyts Guest House- Quadruple Room w/a Kitchen,2019.0,100.0,Identity verified,0.0,regular host,Private room in guesthouse,4.0,1.0,0.0,3.0,0.0,40.0,,,,,,
+Yerevan,Armenia,Superb Apartment on Leningradyan Street,2015.0,100.0,Identity verified,7.0,regular host,Entire rental unit,4.0,1.5,1.0,1.0,4.71,27.0,4.3,4.7,4.7,5.0,4.9,4.6
+Yerevan,Armenia,"Private room with the comfy sleeper sofa, piano",2013.0,100.0,Identity verified,72.0,regular host,Private room in rental unit,1.0,1.5,1.0,2.0,4.57,10.0,4.0,4.9,4.4,4.1,4.3,4.3
+Yerevan,Armenia,Music Lovers Apartment -Free Airport Pickup,2017.0,80.0,Identity not verified,1.0,regular host,Entire rental unit,3.0,1.0,2.0,,0.0,47.0,,,,,,
+Yerevan,Armenia,Blue & Cozy room in a bright and sunny apartment,2013.0,100.0,Identity verified,72.0,regular host,Private room in rental unit,1.0,1.5,1.0,0.0,4.36,15.0,3.7,4.6,5.0,4.2,4.6,4.6
+Yerevan,Armenia,Inga Hotel Yerevan Number 103,2018.0,90.0,Identity verified,10.0,regular host,Room in boutique hotel  Hotel Yerevan,2.0,1.0,1.0,1.0,0.0,30.0,,,,,,
+Yerevan,Armenia,Andranik,2018.0,0.0,Identity verified,0.0,regular host,Entire residential home,6.0,1.0,0.0,1.0,0.0,30.0,,,,,,
+Yerevan,Armenia,View on Ararat from your Apartment,2020.0,0.0,Identity verified,0.0,regular host,Entire rental unit,3.0,1.0,1.0,2.0,0.0,33.0,,,,,,
+Yerevan,Armenia,Квартира посуточно (Багратуняц 14-29),2018.0,0.0,Identity verified,3.0,regular host,Entire rental unit,4.0,0.0,1.0,2.0,0.0,30.0,,,,,,
+Yerevan,Armenia,"Appt with jacuzzi, air conditioning,balcony,garag",2014.0,,Identity verified,0.0,regular host,Entire rental unit,4.0,1.0,2.0,2.0,0.0,50.0,,,,,,
+Yerevan,Armenia,Elitar,2018.0,,Identity verified,1.0,regular host,Entire rental unit,5.0,1.5,2.0,1.0,0.0,100.0,,,,,,
+Yerevan,Armenia,Luxury Villa in Yerevan,2021.0,100.0,Identity verified,0.0,regular host,Entire villa,16.0,5.0,9.0,12.0,0.0,272.0,,,,,,
+Parakar,Armenia,Green House,2016.0,56.0,Identity not verified,9.0,regular host,Private room in guesthouse,4.0,1.0,1.0,3.0,4.0,19.0,4.5,4.5,4.0,4.0,4.8,4.2
+Yerevan,Armenia,"Plenty of space, full of lighth and warm apartment",2015.0,,Identity verified,0.0,regular host,Entire rental unit,3.0,1.0,1.0,2.0,0.0,30.0,,,,,,
+Yerevan,Armenia,Cactus at West Yerevan,2017.0,100.0,Identity not verified,3.0,regular host,Room in hotel,6.0,3.0,3.0,5.0,0.0,18.0,,,,,,
+Yerevan,Armenia,Inga Hotel Yerevan Number 203,2018.0,90.0,Identity verified,10.0,regular host,Room in hotel  Hotel Yerevan,3.0,1.0,1.0,2.0,0.0,31.0,,,,,,
+Yerevan,Armenia,ДОМ С ПРЕКРАСНЫМ ВИДОМ В город ЕРЕВАН,2018.0,,Identity verified,0.0,regular host,Entire rental unit,2.0,1.0,0.0,2.0,0.0,26.0,,,,,,
+Yerevan,Armenia,Armenian Inn Hostel - Quadruple Room,2019.0,100.0,Identity verified,0.0,regular host,Private room in hostel,4.0,1.0,0.0,2.0,0.0,58.0,,,,,,
+Yerevan,Armenia,Armenian Inn Hostel - Bed in a dormitory female w/ shared bathroom,2019.0,100.0,Identity verified,0.0,regular host,Shared room in hostel,1.0,0.0,1.0,,0.0,11.0,,,,,,
+Yerevan,Armenia,Koghbatsi-Amiryan crossroads 1b/d Cozy apartment,2018.0,89.0,Identity verified,5.0,regular host,Private room in rental unit,2.0,1.0,1.0,1.0,0.0,54.0,,,,,,
+Yerevan,Armenia,Inga Hotel Yerevan Number 211,2018.0,90.0,Identity verified,10.0,regular host,Room in hotel  Hotel Yerevan,3.0,1.0,1.0,2.0,0.0,34.0,,,,,,
+Yerevan,Armenia,"Beautiful House for Rent in Yerevan, Armenia",2018.0,100.0,Identity verified,0.0,regular host,Entire residential home,7.0,1.0,3.0,4.0,0.0,70.0,,,,,,
+Yerevan,Armenia,Bagratunyanc 17,2018.0,0.0,Identity verified,3.0,regular host,Entire rental unit,6.0,3.0,2.0,2.0,0.0,35.0,,,,,,
+Yerevan,Armenia,Varsik’s Heaven,2020.0,100.0,Identity verified,0.0,regular host,Shared room in rental unit,2.0,0.0,1.0,,0.0,12.0,,,,,,
+Yerevan,Armenia,Home in center,2016.0,0.0,Identity not verified,1.0,regular host,Entire rental unit,12.0,2.0,6.0,12.0,0.0,380.0,,,,,,
+Yerevan,Armenia,Armenian Inn Hostel - Double Room,2019.0,100.0,Identity verified,0.0,regular host,Private room in hostel,2.0,1.0,0.0,1.0,0.0,46.0,,,,,,
+Geghanist,Armenia,Rooms for rent in Armenia,2019.0,100.0,Identity verified,2.0,regular host,Private room in residential home,1.0,3.5,1.0,5.0,0.0,11.0,,,,,,
+Yerevan,Armenia,Ara Hostel,2019.0,0.0,Identity verified,0.0,regular host,Shared room in hostel,8.0,2.0,1.0,8.0,0.0,10.0,,,,,,
+Yerevan,Armenia,Armenian Inn Hostel - Family Room,2019.0,100.0,Identity verified,0.0,regular host,Private room in hostel,4.0,1.0,0.0,2.0,0.0,67.0,,,,,,
+Yerevan,Armenia,Елитарка,2018.0,,Identity verified,1.0,regular host,Entire rental unit,3.0,1.5,1.0,1.0,0.0,100.0,,,,,,
+Yerevan,Armenia,Armenian Inn Hostel - Bed in a dormitory male w/ shared bathroom,2019.0,100.0,Identity verified,0.0,regular host,Shared room in hostel,1.0,0.0,1.0,,0.0,11.0,,,,,,
+Yerevan,Armenia,Home where dreams come true),2017.0,0.0,Identity not verified,2.0,regular host,Private room in rental unit,2.0,1.0,1.0,2.0,0.0,20.0,,,,,,

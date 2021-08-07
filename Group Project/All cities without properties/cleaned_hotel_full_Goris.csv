@@ -1,0 +1,38 @@
+city,country,name,host_since,host_response_rate,host_identity_verified,review,superhost,property_type,accomodates,number_bathroom,number_bedroom,number_beds,rating,price,cleanliness,accuracy,communication,location,check_in,value
+Goris,Armenia,Гостевой дом,2018.0,100.0,Identity verified,15.0,regular host,Private room in guesthouse,13.0,1.5,4.0,11.0,4.93,10.0,4.9,4.8,4.9,4.8,5.0,4.7
+Goris,Armenia,At Sky Level,2019.0,100.0,Identity not verified,9.0,regular host,Entire rental unit  Sky,3.0,1.0,2.0,3.0,4.89,44.0,4.9,4.9,4.9,5.0,4.9,4.8
+Goris,Armenia,Aregak B&B,2015.0,100.0,Identity not verified,39.0,regular host,Private room in guesthouse,1.0,2.0,1.0,0.0,4.89,15.0,4.9,4.8,4.8,4.8,4.9,4.8
+Goris,Armenia,Private Double Bed Room in Aregak B&B,2015.0,100.0,Identity not verified,39.0,regular host,Private room in bed and breakfast,2.0,2.0,1.0,1.0,5.0,24.0,5.0,5.0,5.0,5.0,5.0,5.0
+Goris,Armenia,Hayi Tun Guest House,2017.0,100.0,Identity not verified,4.0,regular host,Private room in residential home,15.0,3.5,3.0,13.0,5.0,13.0,5.0,5.0,5.0,4.3,5.0,4.7
+Goris,Armenia,Green Hotel Yeghevnut single room,2014.0,,Identity not verified,3.0,regular host,Room in boutique hotel,1.0,1.0,1.0,1.0,4.67,18.0,5.0,5.0,5.0,4.7,5.0,4.3
+Goris,Armenia,"Maro BB, village Togh, Artsakh (Nagorno-Karabakh)",2020.0,0.0,Identity verified,0.0,regular host,Entire residential home,4.0,2.0,2.0,4.0,0.0,70.0,,,,,,
+Goris,Armenia,Spartak apartment,2018.0,100.0,Identity verified,7.0,regular host,Entire serviced apartment,4.0,1.0,1.0,4.0,4.33,42.0,4.7,4.0,4.7,4.3,4.0,4.0
+Goris,Armenia,Spartak deluxe apartment,2018.0,100.0,Identity verified,7.0,regular host,Entire rental unit,4.0,1.0,2.0,3.0,5.0,52.0,5.0,5.0,5.0,5.0,5.0,4.8
+Goris,Armenia,NAL Hotel,2019.0,100.0,Identity verified,0.0,regular host,Private room in guest suite,7.0,4.0,4.0,6.0,0.0,22.0,,,,,,
+Goris,Armenia,Twin Room,2018.0,,Identity not verified,2.0,regular host,Private room in bed and breakfast,2.0,1.0,1.0,2.0,0.0,18.0,,,,,,
+Goris,Armenia,Eco House Hayi Tun,2017.0,100.0,Identity not verified,4.0,regular host,Private room in cottage,3.0,1.0,1.0,3.0,0.0,40.0,,,,,,
+Goris,Armenia,Hayi Tun double room,2017.0,100.0,Identity not verified,4.0,regular host,Private room in bed and breakfast,2.0,1.0,1.0,2.0,0.0,20.0,,,,,,
+Goris,Armenia,vivas 2,2016.0,,Identity not verified,13.0,regular host,Private room in rental unit,2.0,1.0,1.0,2.0,4.83,24.0,5.0,5.0,5.0,4.8,5.0,5.0
+Goris,Armenia,vivas 2,2016.0,,Identity not verified,13.0,regular host,Private room in rental unit,2.0,1.0,1.0,2.0,4.83,24.0,5.0,5.0,5.0,4.8,5.0,5.0
+Goris,Armenia,Zorats akhbyur Двухместный с видом на город 6,2018.0,,Identity verified,2.0,regular host,Room in hotel,2.0,1.0,1.0,0.0,0.0,45.0,,,,,,
+Goris,Armenia,Comfortable house in Goris,2016.0,0.0,Identity not verified,7.0,regular host,Entire residential home,8.0,1.5,4.0,5.0,4.57,43.0,4.4,4.6,4.6,4.7,4.9,4.4
+Goris,Armenia,Hayi Tun Family room,2017.0,100.0,Identity not verified,4.0,regular host,Room in boutique hotel,4.0,1.5,2.0,4.0,0.0,40.0,,,,,,
+Goris,Armenia,Lovely Goris Hostel,2017.0,100.0,Identity not verified,7.0,regular host,Private room in residential home,16.0,4.0,5.0,21.0,5.0,25.0,4.6,4.7,4.9,5.0,4.9,4.9
+Goris,Armenia,VIVAS Hotel,2016.0,,Identity not verified,13.0,regular host,Private room in rental unit,3.0,1.0,1.0,3.0,5.0,40.0,5.0,5.0,5.0,4.9,5.0,5.0
+Goris,Armenia,Sharing Room,2018.0,,Identity not verified,2.0,regular host,Shared room in bed and breakfast,1.0,1.0,1.0,5.0,0.0,10.0,,,,,,
+Goris,Armenia,Private Green Room for 4 Person at Aregak B&B,2015.0,100.0,Identity not verified,39.0,regular host,Private room in bed and breakfast,4.0,2.0,1.0,4.0,0.0,24.0,,,,,,
+Goris,Armenia,Luxs,2018.0,,Identity verified,2.0,regular host,Room in hotel,1.0,1.5,1.0,1.0,0.0,200.0,,,,,,
+Goris,Armenia,"NNN Guest House - renovated, has new furniture!",2019.0,100.0,Identity verified,1.0,regular host,Private room in bed and breakfast,14.0,1.0,3.0,8.0,0.0,13.0,,,,,,
+Goris,Armenia,Туристический люксС,2018.0,,Identity verified,2.0,regular host,Private room in residential home,3.0,1.0,2.0,,0.0,200.0,,,,,,
+Goris,Armenia,Zorats akhbyur Двухместный номер 2,2018.0,,Identity verified,2.0,regular host,Room in hotel,3.0,1.0,1.0,1.0,0.0,57.0,,,,,,
+Goris,Armenia,Zorats akhbyur Двухместный с видом на город 4,2018.0,,Identity verified,2.0,regular host,Room in hotel,2.0,1.0,1.0,1.0,0.0,41.0,,,,,,
+Goris,Armenia,Президентский люкс,2018.0,,Identity verified,2.0,regular host,Private room in residential home,3.0,1.0,2.0,0.0,0.0,250.0,,,,,,
+Goris,Armenia,Private Pink Room for 4 Person at Aregak B&B,2015.0,100.0,Identity not verified,39.0,regular host,Private room in bed and breakfast,4.0,2.0,1.0,4.0,0.0,24.0,,,,,,
+Goris,Armenia,Family Room,2018.0,,Identity not verified,2.0,regular host,Private room in bed and breakfast,5.0,1.0,1.0,4.0,0.0,40.0,,,,,,
+Goris,Armenia,Green Hotel Yeghevnut Triple room,2014.0,,Identity not verified,3.0,regular host,Room in hotel,3.0,1.0,1.0,3.0,0.0,57.0,,,,,,
+Goris,Armenia,Sunny & Cozy Private Room in Downtown,2015.0,100.0,Identity not verified,39.0,regular host,Private room in rental unit,2.0,1.0,1.0,1.0,0.0,42.0,,,,,,
+Goris,Armenia,Zorats akhbyur Двухместный номер 9,2018.0,,Identity verified,2.0,regular host,Room in hotel,2.0,1.0,1.0,1.0,0.0,58.0,,,,,,
+Goris,Armenia,vivas 4,2016.0,,Identity not verified,13.0,regular host,Private room in rental unit,5.0,1.0,1.0,4.0,0.0,50.0,,,,,,
+Goris,Armenia,B&B Montebello,2018.0,,Identity not verified,1.0,regular host,Private room in bed and breakfast,3.0,1.0,1.0,2.0,0.0,45.0,,,,,,
+Goris,Armenia,Zorats akhbyur Трёхместный номер 5,2018.0,,Identity verified,2.0,regular host,Room in hotel,3.0,1.0,2.0,3.0,0.0,45.0,,,,,,
+Goris,Armenia,Family Room,2018.0,,Identity not verified,2.0,regular host,Shared room in bed and breakfast,3.0,1.0,1.0,4.0,0.0,38.0,,,,,,

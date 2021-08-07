@@ -1,0 +1,36 @@
+city,country,name,host_since,host_response_rate,host_identity_verified,review,superhost,property_type,accomodates,number_bathroom,number_bedroom,number_beds,rating,price,cleanliness,accuracy,communication,location,check_in,value
+Aghavnavank,Armenia,Forest hut,2019.0,100.0,Identity verified,12.0,Super host,Entire cabin,3.0,1.5,1.0,2.0,5.0,25.0,4.7,4.7,5.0,5.0,4.9,4.8
+Sevan,Armenia,Rest in Sevan geghama ashxarh,2020.0,100.0,Identity not verified,2.0,regular host,Entire villa,4.0,1.0,1.0,2.0,0.0,140.0,,,,,,
+Sevan,Armenia,Sevan Shore Apartment,2018.0,80.0,Identity not verified,7.0,regular host,Entire rental unit,5.0,1.0,2.0,4.0,4.43,60.0,3.9,4.3,5.0,4.3,4.7,4.1
+Sevan,Armenia,Aurum Trip Guest House with a great view,2020.0,,Identity verified,0.0,regular host,Private room in residential home,5.0,1.0,2.0,2.0,0.0,13.0,,,,,,
+Sevan,Armenia,Writers' Holiday Home (Sevan Peninsula),2017.0,100.0,Identity verified,24.0,regular host,Room in boutique hotel,4.0,1.0,1.0,4.0,4.43,44.0,3.9,4.7,4.6,5.0,5.0,4.4
+Kalavan,Armenia,Large Country House with lovely views for 6 people,2016.0,100.0,Identity verified,9.0,regular host,Entire residential home,8.0,1.0,2.0,5.0,5.0,65.0,5.0,4.7,5.0,4.7,5.0,5.0
+Sevan,Armenia,Modern cottage in the national park and near Lake,2018.0,100.0,Identity verified,2.0,regular host,Entire residential home,6.0,2.0,3.0,4.0,0.0,64.0,,,,,,
+Kalavan,Armenia,Private room for couple with magical view,2019.0,100.0,Identity verified,3.0,regular host,Private room in residential home,2.0,1.0,1.0,1.0,0.0,40.0,,,,,,
+Yerevan,Armenia,Charming cottage by the lake Sevan 6/6,2015.0,100.0,Identity not verified,28.0,regular host,Entire cottage,6.0,1.0,2.0,3.0,4.13,25.0,3.9,4.4,4.2,4.4,4.7,3.9
+Kalavan,Armenia,Private room for couple with magical view,2019.0,100.0,Identity verified,3.0,regular host,Private room in residential home,2.0,1.0,1.0,1.0,0.0,40.0,,,,,,
+Gosh,Armenia,GoshDream Guesthouse,2018.0,100.0,Identity not verified,5.0,regular host,Private room in villa,8.0,3.5,4.0,6.0,4.2,30.0,5.0,4.2,4.2,5.0,5.0,4.2
+Gosh,Armenia,The best ECO place in Armenia-Belveder Eco Resort,2019.0,100.0,Identity not verified,3.0,regular host,Room in hotel,5.0,1.0,2.0,3.0,4.0,50.0,5.0,4.7,4.7,4.7,5.0,4.3
+Kalavan,Armenia,Bright and Stylish House in Kalavan,2016.0,100.0,Identity verified,9.0,regular host,Private room in residential home,2.0,1.0,1.0,2.0,5.0,24.0,4.8,5.0,5.0,5.0,5.0,5.0
+Ijevan,Armenia,Apartment Kamar N26,2018.0,100.0,Identity not verified,9.0,regular host,Entire residential home,3.0,1.0,1.0,2.0,0.0,40.0,,,,,,
+Norashen,Armenia,Summer Home - Lake Sevan,2021.0,100.0,Identity verified,0.0,regular host,Entire cottage,7.0,1.5,3.0,5.0,0.0,91.0,,,,,,
+Getahovit,Armenia,The best outdoor adventures,2018.0,75.0,Identity not verified,4.0,regular host,Treehouse,1.0,1.0,1.0,1.0,0.0,20.0,,,,,,
+Noratus,Armenia,Oazis a place for a real holiday. Big room,2019.0,100.0,Identity not verified,1.0,regular host,Room in hotel,7.0,1.5,2.0,2.0,0.0,13.0,,,,,,
+Getahovit,Armenia,The best outdoor adventures,2018.0,75.0,Identity not verified,4.0,regular host,Treehouse,1.0,1.0,1.0,1.0,0.0,20.0,,,,,,
+Noratus,Armenia,Oazis a place for a real holiday. Big room,2019.0,100.0,Identity not verified,1.0,regular host,Room in hotel,7.0,1.5,2.0,2.0,0.0,13.0,,,,,,
+Noratus,Armenia,Room with Armenian spirit,2019.0,100.0,Identity not verified,1.0,regular host,Room in hotel,7.0,1.5,1.0,1.0,0.0,13.0,,,,,,
+Ijevan,Armenia,Kamar Hotel Ijevan N24,2018.0,100.0,Identity not verified,9.0,regular host,Entire residential home,2.0,1.0,1.0,2.0,5.0,32.0,5.0,5.0,5.0,5.0,5.0,5.0
+Gavar,Armenia,Mountain dweller or Cattle farmer,2018.0,,Identity verified,0.0,regular host,Tent,5.0,0.0,3.0,1.0,0.0,16.0,,,,,,
+Gosh,Armenia,GoshDream,2018.0,100.0,Identity not verified,5.0,regular host,Private room in villa,8.0,3.5,4.0,6.0,0.0,30.0,,,,,,
+Ijevan,Armenia,Enjoy warm Armenian Hospitality,2014.0,100.0,Identity not verified,12.0,regular host,Private room in residential home,14.0,8.0,5.0,14.0,4.92,13.0,4.9,4.8,4.8,4.7,4.9,4.7
+Getahovit,Armenia,Treehouses Anapat Lastever,2018.0,75.0,Identity not verified,4.0,regular host,Shared room in treehouse,2.0,1.0,1.0,2.0,5.0,40.0,5.0,5.0,4.8,5.0,4.8,5.0
+Ijevan,Armenia,Vila da luxe,2016.0,75.0,Identity verified,19.0,regular host,Private room in residential home,10.0,5.5,5.0,6.0,0.0,30.0,,,,,,
+Ijevan,Armenia,Guest House LEADER,2019.0,100.0,Identity verified,2.0,regular host,Room in hotel,2.0,1.5,1.0,2.0,0.0,21.0,,,,,,
+Gosh,Armenia,Double Room,2019.0,100.0,Identity not verified,3.0,regular host,Room in hotel,2.0,1.0,1.0,1.0,0.0,53.0,,,,,,
+Gosh,Armenia,The best ECO place in Armenia-Belveder Eco Resort,2019.0,100.0,Identity not verified,3.0,regular host,Room in hotel,16.0,9.0,10.0,12.0,0.0,450.0,,,,,,
+Gandzakar,Armenia,Tavush Province Wonderful Tours,2017.0,,Identity verified,0.0,regular host,Private room in residential home,4.0,1.0,2.0,1.0,0.0,60.0,,,,,,
+Aghavnavank,Armenia,Yellow tent,2019.0,100.0,Identity verified,12.0,Super host,Campsite,16.0,1.5,6.0,10.0,0.0,20.0,,,,,,
+Ijevan,Armenia,Enjoy warm Armenian hospitality,2014.0,100.0,Identity not verified,12.0,regular host,Private room in guesthouse,4.0,5.0,6.0,4.0,0.0,25.0,,,,,,
+Gosh,Armenia,Deluxe,2019.0,100.0,Identity not verified,3.0,regular host,Room in hotel,2.0,1.0,1.0,1.0,0.0,420.0,,,,,,
+Ijevan,Armenia,Qarvansara Resort,2016.0,0.0,Identity verified,0.0,regular host,Room in hotel,16.0,11.0,11.0,20.0,0.0,30.0,,,,,,
+Sevan,Armenia,LAVANDA CITY COTTAGES,2020.0,75.0,Identity verified,0.0,regular host,Entire home/apt  Սիթի,4.0,0.0,,,0.0,75.0,,,,,,

@@ -1,0 +1,10 @@
+city,country,name,host_since,host_response_rate,host_identity_verified,review,superhost,property_type,accomodates,number_bathroom,number_bedroom,number_beds,rating,price,cleanliness,accuracy,communication,location,check_in,value
+Gegharkunik,Armenia,Holiday cottage,2019.0,0.0,Identity verified,0.0,regular host,Private room in resort,4.0,1.0,2.0,1.0,0.0,50.0,,,,,,
+Vaghashen,Armenia,2 story house with garden in Martuni,2010.0,,Identity not verified,72.0,regular host,Entire residential home,10.0,3.0,3.0,10.0,5.0,85.0,4.5,5.0,5.0,4.5,5.0,5.0
+Martuni,Armenia,New and clean private bedroom. Security parking,2019.0,0.0,Identity not verified,8.0,regular host,Private room in guesthouse,2.0,1.0,1.0,2.0,5.0,15.0,4.8,5.0,5.0,4.8,4.6,5.0
+Tsapatagh,Armenia,Cozy lodge overlooking Lake Sevan.,2016.0,100.0,Identity not verified,4.0,regular host,Private room in bed and breakfast,8.0,1.0,3.0,5.0,5.0,41.0,4.7,5.0,5.0,5.0,5.0,5.0
+Noratus,Armenia,Oazis a place for a real holiday. Big room,2019.0,100.0,Identity not verified,1.0,regular host,Room in hotel,7.0,1.5,2.0,2.0,0.0,13.0,,,,,,
+Noratus,Armenia,Room with Armenian spirit,2019.0,100.0,Identity not verified,1.0,regular host,Room in hotel,7.0,1.5,1.0,1.0,0.0,13.0,,,,,,
+Martuni,Armenia,New guest house 2 bedrooms. Security parking,2019.0,0.0,Identity not verified,8.0,regular host,Entire guesthouse,4.0,1.0,2.0,4.0,4.33,20.0,5.0,4.3,5.0,5.0,5.0,5.0
+Gavar,Armenia,Mountain dweller or Cattle farmer,2018.0,,Identity verified,0.0,regular host,Tent,5.0,0.0,3.0,1.0,0.0,16.0,,,,,,
+Martuni,Armenia,Fresh air and amazing nature,2019.0,,Identity not verified,1.0,regular host,Entire residential home,6.0,1.0,2.0,2.0,0.0,22.0,,,,,,

@@ -1,0 +1,60 @@
+city,country,name,host_since,host_response_rate,host_identity_verified,review,superhost,property_type,accomodates,number_bathroom,number_bedroom,number_beds,rating,price,cleanliness,accuracy,communication,location,check_in,value
+Dzorakap,Armenia,Apple Tree Family House (Family Suite),2019.0,100.0,Identity verified,1.0,regular host,Entire residential home,6.0,1.0,3.0,8.0,0.0,60.0,,,,,,
+Gyumri,Armenia,Modern apartment in Gyumri,2013.0,100.0,Identity verified,78.0,Super host,Entire bed and breakfast,3.0,1.0,0.0,3.0,4.94,27.0,4.9,5.0,5.0,4.8,5.0,4.8
+Gyumri,Armenia,Contemporary and comfortable apartment,2019.0,100.0,Identity not verified,8.0,regular host,Entire rental unit,2.0,1.0,1.0,,4.63,25.0,4.2,4.9,4.4,4.4,4.8,4.6
+Gyumri,Armenia,KAYARAN home,2014.0,100.0,Identity verified,43.0,Super host,Entire rental unit,3.0,1.0,0.0,2.0,5.0,29.0,5.0,5.0,5.0,4.9,5.0,4.9
+Gyumri,Armenia,Full House in Gyumri,2018.0,100.0,Identity verified,14.0,regular host,Entire rental unit,4.0,1.0,1.0,2.0,5.0,18.0,4.5,4.8,5.0,5.0,4.8,5.0
+Gyumri,Armenia,Центральный Гюмри ДОМ МЕЧТЫ Guest Hausse A.S.T.,2016.0,100.0,Identity not verified,18.0,regular host,Entire rental unit,5.0,1.0,2.0,1.0,4.78,30.0,4.7,4.7,4.8,5.0,4.8,4.6
+Gyumri,Armenia,New Central apartment,2014.0,100.0,Identity not verified,16.0,Super host,Entire rental unit,3.0,1.0,0.0,2.0,4.94,33.0,4.7,4.9,5.0,5.0,5.0,4.8
+Gyumri,Armenia,Cozy and Modern Gyumri House with a Garden,2020.0,100.0,Identity verified,7.0,regular host,Entire residential home,4.0,1.0,1.0,2.0,5.0,39.0,5.0,5.0,5.0,4.7,5.0,4.7
+Gyumri,Armenia,Rest and reliability,2021.0,100.0,Identity verified,0.0,regular host,Entire residential home,10.0,2.0,6.0,0.0,0.0,40.0,,,,,,
+Gyumri,Armenia,Room #5,2017.0,100.0,Identity verified,65.0,regular host,Entire rental unit,4.0,1.5,1.0,4.0,4.95,17.0,4.9,5.0,5.0,4.8,5.0,5.0
+Gyumri,Armenia,Downtown Apartment in Gyumri,2018.0,100.0,Identity verified,14.0,regular host,Entire serviced apartment,4.0,1.0,1.0,1.0,0.0,24.0,,,,,,
+Gyumri,Armenia,Daily guest house,2018.0,100.0,Identity verified,35.0,regular host,Entire guesthouse,3.0,1.5,2.0,4.0,4.82,24.0,4.9,4.8,4.8,4.9,4.9,4.9
+Gyumri,Armenia,APARTMENT IN THE CENTER OF GYUMRI D@G,2016.0,100.0,Identity not verified,18.0,regular host,Entire rental unit,4.0,1.0,1.0,1.0,5.0,21.0,4.8,4.8,4.8,4.5,5.0,4.8
+Dzorakap,Armenia,Apple Tree Family Home (ECO),2019.0,100.0,Identity verified,1.0,regular host,Entire residential home,4.0,1.5,1.0,2.0,0.0,48.0,,,,,,
+Gyumri,Armenia,Konjelazia b&b / Tourism & Design,2016.0,100.0,Identity not verified,6.0,regular host,Room in aparthotel,7.0,2.0,2.0,4.0,5.0,37.0,5.0,5.0,5.0,5.0,5.0,4.8
+Gyumri,Armenia,APARTMENT IN THE CENTER OF GYUMRI D@G,2016.0,100.0,Identity not verified,18.0,regular host,Entire rental unit,4.0,1.0,1.0,1.0,5.0,21.0,4.8,4.8,4.8,4.5,5.0,4.8
+Gyumri,Armenia,Guest Hause AURORA Central GYUMRI,2016.0,100.0,Identity not verified,18.0,regular host,Entire rental unit,4.0,1.0,1.0,1.0,3.67,20.0,3.7,3.7,3.7,3.7,3.7,3.7
+Gyumri,Armenia,In Gyumri Hotel - Room № 9 Standart,2019.0,100.0,Identity verified,1.0,regular host,Room in hotel  Gyumri,2.0,1.0,1.0,1.0,0.0,35.0,,,,,,
+Gyumri,Armenia,House in Gyumri Center,2019.0,100.0,Identity verified,6.0,regular host,Entire residential home,4.0,1.0,2.0,4.0,4.5,30.0,4.3,4.2,5.0,4.5,4.7,4.7
+Gyumri,Armenia,"Very Central & quite Apartment in Gyumri, Armenia",2013.0,,Identity not verified,65.0,regular host,Entire rental unit,4.0,1.0,1.0,1.0,0.0,25.0,,,,,,
+Gyumri,Armenia,"Stylish, comfortable apartment with all comforts!",2019.0,100.0,Identity verified,1.0,regular host,Entire rental unit,2.0,1.5,1.0,1.0,0.0,41.0,,,,,,
+Gyumri,Armenia,ODJAH is the very center of Gyumri,2016.0,100.0,Identity not verified,18.0,regular host,Entire guest suite,5.0,1.0,1.0,4.0,0.0,24.0,,,,,,
+Gyumri,Armenia,Srtashyan Apartments - Gorky Street,2018.0,60.0,Identity not verified,40.0,regular host,Entire rental unit,4.0,1.0,2.0,3.0,4.71,30.0,4.6,4.8,4.8,4.9,4.8,4.8
+Gharibjanyan,Armenia,Гюмри хаус,2014.0,100.0,Identity not verified,30.0,regular host,Private room in residential home -Anna,4.0,1.5,2.0,0.0,0.0,15.0,,,,,,
+Gyumri,Armenia,GRIG HOUSE 5+,2018.0,100.0,Identity not verified,5.0,regular host,Entire rental unit,2.0,1.0,1.0,1.0,4.2,25.0,4.2,4.2,4.2,4.2,4.2,4.0
+Gyumri,Armenia,большои дом центре Гямри,2014.0,100.0,Identity not verified,30.0,regular host,Private room in residential home -Anna,10.0,2.0,4.0,4.0,4.83,15.0,4.7,4.8,4.9,4.9,4.9,4.8
+Gyumri,Armenia,In Gyumri Hotel - Room № 1 Deluxe,2019.0,100.0,Identity verified,1.0,regular host,Room in hotel  Gyumri,2.0,1.0,1.0,1.0,0.0,53.0,,,,,,
+Gyumri,Armenia,Friendly B&B with Gyumri's flair,2013.0,,Identity not verified,65.0,regular host,Private room in residential home,2.0,1.5,2.0,0.0,4.83,14.0,4.9,4.8,5.0,4.9,5.0,4.8
+Gyumri,Armenia,Srtashyan Apartments - Gorky Street,2018.0,60.0,Identity not verified,40.0,regular host,Entire rental unit,4.0,1.0,2.0,3.0,4.71,30.0,4.6,4.8,4.8,4.9,4.8,4.8
+Gyumri,Armenia,Room with Balcony in JINJOTEL Breakfast included,2018.0,100.0,Identity not verified,3.0,regular host,Room in boutique hotel,2.0,1.0,1.0,1.0,0.0,57.0,,,,,,
+Gharibjanyan,Armenia,Гюмри хаус,2014.0,100.0,Identity not verified,30.0,regular host,Private room in residential home -Anna,4.0,1.5,2.0,0.0,0.0,15.0,,,,,,
+Gyumri,Armenia,In Gyumri Hotel - Room № 12 Standart,2019.0,100.0,Identity verified,1.0,regular host,Room in hotel  Gyumri,2.0,1.0,1.0,1.0,0.0,33.0,,,,,,
+Gyumri,Armenia,большои дом центре Гямри,2014.0,100.0,Identity not verified,30.0,regular host,Private room in residential home -Anna,10.0,2.0,4.0,4.0,4.83,15.0,4.7,4.8,4.9,4.9,4.9,4.8
+Gyumri,Armenia,Artush & Raisa B & B,2014.0,90.0,Identity not verified,27.0,regular host,Private room in bed and breakfast,16.0,7.0,6.0,12.0,4.52,10.0,4.6,4.8,4.8,4.7,4.8,4.8
+Gyumri,Armenia,Budget Twin Room,2014.0,100.0,Identity verified,39.0,Super host,Private room in guesthouse,2.0,1.0,1.0,2.0,4.79,13.0,5.0,4.9,5.0,4.8,4.9,4.9
+Gyumri,Armenia,Baluni Guest House,2020.0,100.0,Identity verified,0.0,regular host,Entire residential home,8.0,2.0,3.0,8.0,0.0,60.0,,,,,,
+Gyumri,Armenia,Уютная квартира в Гюмри,2019.0,20.0,Identity verified,0.0,regular host,Entire rental unit,3.0,1.0,1.0,2.0,0.0,20.0,,,,,,
+Gyumri,Armenia,GOD,2018.0,100.0,Identity verified,0.0,regular host,Entire rental unit,4.0,1.0,2.0,2.0,0.0,35.0,,,,,,
+Gyumri,Armenia,Standart dable room Grape,2018.0,100.0,Identity not verified,3.0,regular host,Room in boutique hotel,2.0,1.0,1.0,1.0,0.0,48.0,,,,,,
+Gyumri,Armenia,In Gyumri Hotel - Room № 10 Luxe,2019.0,100.0,Identity verified,1.0,regular host,Room in hotel  Gyumri,2.0,1.0,1.0,1.0,0.0,61.0,,,,,,
+Gyumri,Armenia,Red room,2014.0,100.0,Identity verified,39.0,Super host,Private room in guesthouse,3.0,1.0,1.0,3.0,0.0,35.0,,,,,,
+Gyumri,Armenia,Welcomehome,2021.0,100.0,Identity verified,0.0,regular host,Private room in guesthouse,8.0,1.0,4.0,8.0,0.0,16.0,,,,,,
+Gyumri,Armenia,Уютная квартира в городе Гюмри,2019.0,20.0,Identity verified,0.0,regular host,Entire rental unit,3.0,1.0,1.0,2.0,0.0,20.0,,,,,,
+Gyumri,Armenia,Knight,2018.0,100.0,Identity not verified,5.0,regular host,Private room in residential home,3.0,1.0,1.0,3.0,0.0,49.0,,,,,,
+Gyumri,Armenia,In Gyumri Hotel - Room № 8 Deluxe,2019.0,100.0,Identity verified,1.0,regular host,Room in hotel  Gyumri,2.0,1.0,1.0,1.0,0.0,50.0,,,,,,
+Gyumri,Armenia,Deluxe Double room at JINJOTEL Breakfast included,2018.0,100.0,Identity not verified,3.0,regular host,Room in boutique hotel,2.0,1.0,1.0,1.0,0.0,57.0,,,,,,
+Gyumri,Armenia,Blue room,2014.0,100.0,Identity verified,39.0,Super host,Private room in guesthouse,2.0,0.0,1.0,2.0,0.0,26.0,,,,,,
+Gyumri,Armenia,Deluxe Room (2 Adults + 1 Child) in JINJOTEL,2018.0,100.0,Identity not verified,3.0,regular host,Room in boutique hotel,3.0,1.0,1.0,1.0,0.0,68.0,,,,,,
+Gyumri,Armenia,Deluxe Double Room at Vanatur Hotel,2019.0,100.0,Identity verified,0.0,regular host,Room in hotel,2.0,1.0,0.0,1.0,0.0,52.0,,,,,,
+Gyumri,Armenia,Deluxe Room (2 Adults + 1 Child) in JINJOTEL,2018.0,100.0,Identity not verified,3.0,regular host,Room in boutique hotel,3.0,1.0,1.0,1.0,0.0,75.0,,,,,,
+Gyumri,Armenia,Standard Double Room at Vanatur Hotel,2019.0,100.0,Identity verified,0.0,regular host,Room in hotel,2.0,1.0,0.0,1.0,0.0,42.0,,,,,,
+Gyumri,Armenia,Central Guesthouse Gyumri Double room,2020.0,100.0,Identity verified,3.0,regular host,Private room in residential home,2.0,1.0,1.0,2.0,0.0,22.0,,,,,,
+Gyumri,Armenia,Comfortable Accommodation in the Center of Gyumri,2019.0,100.0,Identity verified,1.0,regular host,Private room in bed and breakfast  Foundation,3.0,1.0,1.0,3.0,0.0,71.0,,,,,,
+Gyumri,Armenia,Standard Twin Room at Vanatur Hotel,2019.0,100.0,Identity verified,0.0,regular host,Room in hotel,2.0,1.0,1.0,2.0,0.0,42.0,,,,,,
+Gyumri,Armenia,Comfortable Accomodation in the Center of Gyumri,2019.0,100.0,Identity verified,1.0,regular host,Private room in bed and breakfast  Foundation,4.0,1.0,1.0,4.0,0.0,88.0,,,,,,
+Gyumri,Armenia,Villa in Gyumri,2020.0,0.0,Identity verified,0.0,regular host,Entire residential home,10.0,2.0,10.0,12.0,0.0,340.0,,,,,,
+Gyumri,Armenia,Olympic Hotel,2019.0,,Identity verified,0.0,regular host,Room in hotel,4.0,1.0,0.0,4.0,0.0,40.0,,,,,,
+Gyumri,Armenia,Rooms For Rent,2019.0,100.0,Identity verified,0.0,regular host,Private room in residential home,8.0,1.0,3.0,5.0,0.0,10.0,,,,,,
+Gyumri,Armenia,House 57,2019.0,100.0,Identity verified,0.0,regular host,Entire residential home,3.0,1.0,2.0,4.0,0.0,25.0,,,,,,

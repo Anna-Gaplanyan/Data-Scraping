@@ -1,0 +1,4 @@
+city,country,name,host_since,host_response_rate,host_identity_verified,review,superhost,property_type,accomodates,number_bathroom,number_bedroom,number_beds,rating,price,cleanliness,accuracy,communication,location,check_in,value
+Dzorakap,Armenia,Apple Tree Family House(семейный люкс),2019.0,100.0,Identity verified,1.0,regular host,Entire residential home,6.0,1.0,3.0,8.0,0.0,60.0,,,,,,
+Aragatsotn,Armenia,Домик влюбленного гномика!,2015.0,50.0,Identity not verified,26.0,regular host,Hut,2.0,0.0,1.0,2.0,0.0,21.0,,,,,,
+Dzorakap,Armenia,Apple Tree Family Home (ECO),2019.0,100.0,Identity verified,1.0,regular host,Entire residential home,4.0,1.5,1.0,2.0,0.0,48.0,,,,,,

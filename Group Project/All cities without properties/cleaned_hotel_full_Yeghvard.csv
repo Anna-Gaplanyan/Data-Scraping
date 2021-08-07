@@ -1,0 +1,33 @@
+city,country,name,host_since,host_response_rate,host_identity_verified,review,superhost,property_type,accomodates,number_bathroom,number_bedroom,number_beds,rating,price,cleanliness,accuracy,communication,location,check_in,value
+Yerevan,Armenia,Emma's place,2017.0,100.0,Identity verified,53.0,regular host,Entire guesthouse,2.0,1.0,1.0,2.0,4.79,12.0,4.7,4.7,4.8,4.6,4.8,4.8
+Yerevan,Armenia,Yerkir eco house,2016.0,100.0,Identity verified,281.0,Super host,Entire residential home,6.0,2.0,3.0,4.0,5.0,400.0,5.0,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,"Welcome to my Cosy, Comfy, Corner in Yerevan",2018.0,,Identity verified,12.0,regular host,Entire rental unit,2.0,1.0,1.0,1.0,4.82,25.0,5.0,4.8,4.8,4.7,5.0,4.8
+Yerevan,Armenia,New renovated Luxury 1 bedroom apartment,2014.0,100.0,Identity not verified,88.0,Super host,Entire rental unit,3.0,1.0,1.0,2.0,4.84,30.0,4.8,4.9,4.9,4.5,4.9,4.8
+Yerevan,Armenia,New cozy apartment Adonts,2013.0,100.0,Identity verified,7.0,regular host,Entire rental unit,6.0,1.5,2.0,4.0,5.0,27.0,5.0,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,"Beautiful Villa, pool, view to Ararat mountain",2020.0,33.0,Identity verified,0.0,regular host,Entire residential home,16.0,3.0,4.0,4.0,0.0,380.0,,,,,,
+Yerevan,Armenia,комната 102,2019.0,,Identity verified,0.0,regular host,Room in hotel,2.0,1.0,1.0,1.0,0.0,21.0,,,,,,
+Yerevan,Armenia,Spacious deluxe apartment with garden - Davitashen,2019.0,100.0,Identity verified,0.0,regular host,Entire rental unit,5.0,1.0,2.0,3.0,0.0,21.0,,,,,,
+Yerevan,Armenia,Квартира супер S1,2018.0,100.0,Identity verified,6.0,regular host,Entire rental unit,3.0,1.0,1.0,0.0,0.0,30.0,,,,,,
+Yerevan,Armenia,Spacious deluxe apartment with garden - Davitashen,2019.0,100.0,Identity verified,0.0,regular host,Entire rental unit,5.0,1.0,2.0,3.0,0.0,21.0,,,,,,
+Yerevan,Armenia,Квартира суперская на севере Еревана,2018.0,100.0,Identity verified,6.0,regular host,Entire rental unit,4.0,1.0,1.0,3.0,5.0,27.0,5.0,5.0,5.0,4.0,5.0,5.0
+Yerevan,Armenia,комната 102,2019.0,,Identity verified,0.0,regular host,Room in hotel,2.0,1.0,1.0,1.0,0.0,21.0,,,,,,
+Yerevan,Armenia,Fuii,2021.0,80.0,Identity verified,0.0,regular host,Entire rental unit,5.0,1.0,2.0,2.0,0.0,43.0,,,,,,
+Yerevan,Armenia,"""Feels home"" apartment",2012.0,100.0,Identity verified,0.0,regular host,Entire rental unit,5.0,1.0,2.0,2.0,0.0,20.0,,,,,,
+Karashamb,Armenia,Pool and BBQ in cozy place,2017.0,100.0,Identity verified,0.0,regular host,Entire villa,10.0,2.0,4.0,7.0,0.0,80.0,,,,,,
+Yerevan,Armenia,"Гостевой дом""Дача"" /Family guesthouse ""Dacha""",2017.0,100.0,Identity verified,6.0,regular host,Private room in residential home,8.0,2.5,3.0,6.0,5.0,28.0,5.0,5.0,5.0,5.0,5.0,5.0
+Yerevan,Armenia,Home sweet home,2016.0,100.0,Identity not verified,2.0,regular host,Entire rental unit,2.0,1.0,1.0,1.0,0.0,22.0,,,,,,
+Yerevan,Armenia,Yerevan Multi-unit building,2018.0,75.0,Identity not verified,5.0,regular host,Entire rental unit,6.0,1.0,2.0,2.0,0.0,30.0,,,,,,
+Yerevan,Armenia,"Gorgeous Villa With Pr. Pool, Sauna & Home Theater",2015.0,93.0,Identity verified,110.0,Super host,Entire residential home,16.0,4.0,5.0,10.0,0.0,239.0,,,,,,
+Yerevan,Armenia,Sunny And Beautiful Villa in Avan,2021.0,100.0,Identity verified,0.0,regular host,Entire villa,8.0,2.0,4.0,5.0,0.0,204.0,,,,,,
+Yerevan,Armenia,Квартира суперская,2018.0,100.0,Identity verified,6.0,regular host,Entire rental unit,4.0,1.0,1.0,3.0,0.0,30.0,,,,,,
+Yerevan,Armenia,Caravan hotel,2019.0,,Identity verified,0.0,regular host,Room in hotel,2.0,1.0,1.0,1.0,0.0,21.0,,,,,,
+Yerevan,Armenia,Luxury Villa With Swimming Pool and Tours,2015.0,93.0,Identity verified,110.0,Super host,Entire villa,16.0,4.5,5.0,5.0,0.0,190.0,,,,,,
+Yerevan,Armenia,Luxury And Comfortable Villa in Ashtarak,2021.0,100.0,Identity verified,0.0,regular host,Entire villa,10.0,2.0,3.0,5.0,0.0,302.0,,,,,,
+Yerevan,Armenia,Full bnakaran,2021.0,80.0,Identity verified,0.0,regular host,Entire residential home,8.0,1.5,1.0,1.0,0.0,44.0,,,,,,
+Yerevan,Armenia,Full bnakaran,2021.0,80.0,Identity verified,0.0,regular host,Entire residential home,8.0,1.5,1.0,1.0,0.0,44.0,,,,,,
+Yerevan,Armenia,Elite Gated Community Apartment,2015.0,,Identity verified,0.0,regular host,Entire rental unit,2.0,1.0,2.0,2.0,0.0,85.0,,,,,,
+Yerevan,Armenia,Шикарная квартира,2017.0,,Identity verified,1.0,regular host,Entire rental unit,4.0,1.0,1.0,1.0,0.0,50.0,,,,,,
+Yerevan,Armenia,Art Guesthouse Qanaqer,2015.0,70.0,Identity verified,4.0,regular host,Private room in bed and breakfast,16.0,6.0,6.0,25.0,0.0,15.0,,,,,,
+Yerevan,Armenia,"Sunny room with Big bed,kitchen,Good area",2016.0,,Identity verified,1.0,regular host,Private room in rental unit,2.0,1.0,0.0,1.0,0.0,30.0,,,,,,
+Yerevan,Armenia,прекрасный вид Арарат,2019.0,,Identity verified,0.0,regular host,Shared room in rental unit,2.0,1.0,1.0,1.0,0.0,40.0,,,,,,
+Yerevan,Armenia,"Милый гостевой апартамент,с бассейном,и зелёной зоной отдыха",2015.0,100.0,Identity verified,0.0,regular host,Entire guest suite,5.0,1.5,3.0,6.0,0.0,60.0,,,,,,

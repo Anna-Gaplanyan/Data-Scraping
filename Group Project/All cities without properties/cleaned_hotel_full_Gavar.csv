@@ -1,0 +1,135 @@
+city,country,name,host_since,host_response_rate,host_identity_verified,review,superhost,property_type,accomodates,number_bathroom,number_bedroom,number_beds,rating,price,cleanliness,accuracy,communication,location,check_in,value
+Noratus,Armenia,Oazis a place for a real holiday. Big room,2019.0,100.0,Identity not verified,1.0,regular host,Room in hotel,7.0,1.5,2.0,2.0,0.0,13.0,,,,,,
+Tsaghkadzor,Armenia,Snowdrop ❤ of Tsaghkadzor ✔ Self Checkin ✔ Balcony,2016.0,100.0,Identity verified,239.0,Super host,Entire condominium (condo),3.0,1.0,1.0,1.0,5.0,50.0,5.0,5.0,5.0,5.0,5.0,5.0
+Noratus,Armenia,Room with Armenian spirit,2019.0,100.0,Identity not verified,1.0,regular host,Room in hotel,7.0,1.5,1.0,1.0,0.0,13.0,,,,,,
+Garni,Armenia,Cherry blossoms,2017.0,92.0,Identity verified,98.0,Super host,Entire residential home,5.0,1.0,1.0,4.0,4.9,33.0,4.9,4.9,4.8,5.0,5.0,4.8
+Garni,Armenia,"It's CHERRY time, welcome!",2017.0,92.0,Identity verified,98.0,Super host,Entire residential home,4.0,1.0,1.0,2.0,4.97,32.0,4.9,4.9,4.9,5.0,4.9,4.8
+Gavar,Armenia,Mountain dweller or Cattle farmer,2018.0,,Identity verified,0.0,regular host,Tent,5.0,0.0,3.0,1.0,0.0,16.0,,,,,,
+Sevan,Armenia,Sevan Home on the center,2020.0,100.0,Identity verified,5.0,regular host,Entire rental unit,5.0,1.5,3.0,3.0,5.0,40.0,5.0,5.0,5.0,4.6,5.0,4.8
+Sevan,Armenia,Modern cottage in the national park and near Lake,2018.0,100.0,Identity verified,2.0,regular host,Entire residential home,6.0,2.0,3.0,4.0,0.0,64.0,,,,,,
+Tsaghkadzor,Armenia,Hillside Apartment Tsaghkadzor,2018.0,100.0,Identity verified,7.0,regular host,Entire rental unit,5.0,1.5,1.0,1.0,5.0,25.0,5.0,5.0,5.0,5.0,5.0,5.0
+Sevan,Armenia,Aurum Trip Guest House with a great view,2020.0,,Identity verified,0.0,regular host,Private room in residential home,5.0,1.0,2.0,2.0,0.0,13.0,,,,,,
+Севан,Armenia,Writers' Holiday Home (Sevan Peninsula),2017.0,100.0,Identity verified,24.0,regular host,Room in boutique hotel,4.0,1.0,1.0,4.0,4.43,44.0,3.9,4.7,4.6,5.0,5.0,4.4
+Yerevan,Armenia,Yerkir eco house,2016.0,100.0,Identity verified,281.0,Super host,Entire residential home,6.0,2.0,3.0,4.0,5.0,400.0,5.0,5.0,5.0,5.0,5.0,5.0
+Gegharkunik,Armenia,Holiday cottage,2019.0,0.0,Identity verified,0.0,regular host,Private room in resort,4.0,1.0,2.0,1.0,0.0,50.0,,,,,,
+Dilijan,Armenia,Dilijan Cottage,2014.0,100.0,Identity verified,18.0,Super host,Entire cottage,4.0,1.0,2.0,4.0,5.0,65.0,4.9,5.0,4.9,5.0,4.9,4.8
+Севан,Armenia,Writers' Holiday Home (Sevan Peninsula),2017.0,100.0,Identity verified,24.0,regular host,Room in boutique hotel,4.0,1.0,1.0,4.0,4.43,44.0,3.9,4.7,4.6,5.0,5.0,4.4
+Севан,Armenia,Central Studio Apartment,2016.0,100.0,Identity verified,7.0,regular host,Entire rental unit,6.0,1.0,1.0,2.0,4.75,39.0,5.0,4.8,5.0,4.8,5.0,4.5
+Tsaghkadzor,Armenia,Вилла Provence in Tsakhkadzor,2019.0,,Identity verified,6.0,regular host,Entire villa,10.0,2.5,4.0,4.0,5.0,214.0,5.0,5.0,5.0,4.8,5.0,5.0
+Tsaghkadzor,Armenia,Beautiful hotel room in the city of Tsaghkadzor,2018.0,100.0,Identity verified,79.0,regular host,Entire serviced apartment,1.0,1.0,1.0,1.0,0.0,30.0,,,,,,
+Yerevan,Armenia,Charming cottage by the lake Sevan 6/6,2015.0,100.0,Identity not verified,28.0,regular host,Entire cottage,6.0,1.0,2.0,3.0,4.13,25.0,3.9,4.4,4.2,4.4,4.7,3.9
+Sevan,Armenia,Guest House + Transfer to Sevan lake 2,2017.0,100.0,Identity verified,15.0,regular host,Private room in bed and breakfast,2.0,1.0,1.0,2.0,4.67,30.0,5.0,4.3,5.0,4.2,4.8,4.8
+Yerevan,Armenia,Villa with swimming pool and sauna & Tours,2018.0,17.0,Identity verified,0.0,regular host,Entire rental unit,6.0,3.5,3.0,6.0,0.0,100.0,,,,,,
+Севан,Armenia,Sevan Shore Apartment,2018.0,80.0,Identity not verified,7.0,regular host,Entire rental unit,5.0,1.0,2.0,4.0,4.43,60.0,3.9,4.3,5.0,4.3,4.7,4.1
+Tsaghkadzor,Armenia,Tsaghkadzor Homeland,2021.0,100.0,Identity verified,0.0,regular host,Entire villa,12.0,2.5,4.0,4.0,0.0,350.0,,,,,,
+Gavar,Armenia,Mountain dweller or Cattle farmer,2018.0,,Identity verified,0.0,regular host,Tent,5.0,0.0,3.0,1.0,0.0,16.0,,,,,,
+Tsaghkadzor,Armenia,Alaska Resort Tsaghkadzor,2016.0,100.0,Identity verified,73.0,Super host,Entire cottage,6.0,2.0,3.0,5.0,4.75,120.0,5.0,4.8,4.8,4.5,4.8,4.8
+Norashen,Armenia,Summer Home - Lake Sevan,2021.0,100.0,Identity verified,0.0,regular host,Entire cottage,7.0,1.5,3.0,5.0,0.0,91.0,,,,,,
+Jraber,Armenia,Peaceful getaway in the nature,2016.0,100.0,Identity verified,85.0,Super host,Private room in cottage,2.0,3.0,2.0,4.0,0.0,59.0,,,,,,
+Kalavan,Armenia,Private room for couple with magical view,2019.0,100.0,Identity verified,3.0,regular host,Private room in residential home,2.0,1.0,1.0,1.0,0.0,40.0,,,,,,
+Norashen,Armenia,Summer Home - Lake Sevan,2021.0,100.0,Identity verified,0.0,regular host,Entire cottage,7.0,1.5,3.0,5.0,0.0,91.0,,,,,,
+Tsaghkadzor,Armenia,Forest Castle Tsaghkadzor ( Cozy Vacation Home ),2019.0,100.0,Identity verified,3.0,regular host,Entire residential home,8.0,2.0,1.0,7.0,5.0,200.0,4.3,4.7,5.0,5.0,5.0,4.7
+Tsaghkadzor,Armenia,Crown Hotel Tsaghkadzor,2018.0,100.0,Identity not verified,5.0,regular host,Room in hotel,2.0,1.0,1.0,1.0,4.8,24.0,4.8,5.0,5.0,5.0,5.0,5.0
+Севан,Armenia,Sevan Shore Apartment,2018.0,80.0,Identity not verified,7.0,regular host,Entire rental unit,5.0,1.0,2.0,4.0,4.43,60.0,3.9,4.3,5.0,4.3,4.7,4.1
+Garni,Armenia,Room in the house with gallery,2017.0,92.0,Identity verified,98.0,Super host,Private room in cottage,4.0,1.0,1.0,1.0,4.9,17.0,5.0,4.9,5.0,5.0,5.0,4.9
+Dzoraghbyur,Armenia,Private House for your rest,2020.0,100.0,Identity verified,0.0,regular host,Entire bungalow,8.0,1.5,3.0,4.0,0.0,200.0,,,,,,
+Aghveran,Armenia,GARDEN VINTAGE HOUSE/HEAVEN,2012.0,100.0,Identity verified,1.0,regular host,Entire villa,6.0,1.0,3.0,4.0,0.0,200.0,,,,,,
+Fantan,Armenia,Fantan Farms - Organic Farmstay,2012.0,100.0,Identity verified,38.0,regular host,Private room in residential home,4.0,1.0,1.0,4.0,4.97,35.0,4.9,4.9,5.0,4.8,5.0,4.9
+Garni,Armenia,Room in the house with gallery,2017.0,92.0,Identity verified,98.0,Super host,Private room in cottage,4.0,1.0,1.0,1.0,4.9,17.0,5.0,4.9,5.0,5.0,5.0,4.9
+Arzakan,Armenia,Your dream cottage in forest.,2021.0,0.0,Identity verified,0.0,regular host,Private room in nature lodge,4.0,1.5,1.0,2.0,0.0,60.0,,,,,,
+Tsaghkadzor,Armenia,FOREST CAMP Sunny Apartment Tsaghkadzor Armenia,2018.0,,Identity verified,4.0,regular host,Entire rental unit,6.0,1.0,2.0,3.0,5.0,46.0,5.0,5.0,5.0,5.0,5.0,5.0
+Tsaghkadzor,Armenia,Mountain view apartment with mountain views,2019.0,100.0,Identity verified,21.0,Super host,Entire rental unit,5.0,1.5,2.0,4.0,5.0,30.0,5.0,5.0,5.0,4.7,5.0,5.0
+Karashamb,Armenia,Pool and BBQ in cozy place,2017.0,100.0,Identity verified,0.0,regular host,Entire villa,10.0,2.0,4.0,7.0,0.0,80.0,,,,,,
+Sevan,Armenia,House for rent in <Home Inn> near Lake Sevan,2019.0,100.0,Identity verified,0.0,regular host,Entire residential home,10.0,2.0,4.0,0.0,0.0,74.0,,,,,,
+Tsaghkadzor,Armenia,Harmony guest house,2021.0,100.0,Identity verified,0.0,regular host,Entire serviced apartment,6.0,1.0,2.0,3.0,0.0,90.0,,,,,,
+Sevan,Armenia,House for rent in <Home Inn> near Lake Sevan,2019.0,100.0,Identity verified,0.0,regular host,Entire residential home,10.0,2.0,4.0,0.0,0.0,74.0,,,,,,
+Garni,Armenia,Charming 3-bedroom aparthotel,2016.0,100.0,Identity verified,0.0,regular host,Room in aparthotel,6.0,2.0,3.0,0.0,0.0,23.0,,,,,,
+Tsaghkadzor,Armenia,Marriott Family Cottage,2019.0,90.0,Identity verified,31.0,Super host,Entire townhouse,8.0,3.5,4.0,6.0,0.0,280.0,,,,,,
+Tsaghkadzor,Armenia,Nice apartment on Caxkadzor,2019.0,91.0,Identity verified,27.0,Super host,Entire rental unit,3.0,1.0,1.0,1.0,0.0,55.0,,,,,,
+Tsaghkadzor,Armenia,Mountain view apartment with mountain views,2019.0,100.0,Identity verified,21.0,Super host,Entire rental unit,5.0,1.5,2.0,4.0,5.0,30.0,5.0,5.0,5.0,4.7,5.0,5.0
+Garni,Armenia,Villa de familia,2017.0,100.0,Identity verified,39.0,regular host,Entire residential home,10.0,4.0,5.0,5.0,0.0,186.0,,,,,,
+Yerevan,Armenia,Cute Bedrooms in Yerevan,2017.0,50.0,Identity not verified,9.0,regular host,Private room in residential home,4.0,1.5,2.0,2.0,4.44,20.0,4.8,4.3,4.6,4.3,4.4,4.8
+Sevan,Armenia,Lord XXL,2017.0,64.0,Identity verified,38.0,regular host,Entire villa,6.0,1.0,2.0,3.0,4.9,90.0,5.0,4.9,4.8,5.0,4.9,5.0
+Yerevan,Armenia,Quiet Place for having Real Rest / Nature+Comfort,2016.0,,Identity verified,0.0,regular host,Entire residential home,8.0,2.0,0.0,4.0,0.0,63.0,,,,,,
+Garni,Armenia,Castle House,2019.0,100.0,Identity verified,4.0,regular host,Room in bed and breakfast,6.0,1.5,3.0,6.0,3.75,12.0,4.0,4.0,4.0,4.0,4.0,3.8
+Yerevan,Armenia,Private house in Bagrevand area,2017.0,100.0,Identity verified,0.0,regular host,Entire residential home,7.0,2.0,3.0,1.0,0.0,35.0,,,,,,
+Tsaghkadzor,Armenia,Nice apartment on Caxkadzor,2019.0,91.0,Identity verified,27.0,Super host,Entire rental unit,3.0,1.0,1.0,1.0,0.0,55.0,,,,,,
+Yerevan,Armenia,Private room in spacious house in Jrvezh,2018.0,100.0,Identity verified,11.0,regular host,Private room in residential home,2.0,2.0,1.0,2.0,5.0,15.0,5.0,5.0,5.0,4.6,5.0,4.9
+Tsaghkadzor,Armenia,Chalet Nairi Garden with Russian Bath,2017.0,100.0,Identity verified,21.0,regular host,Entire chalet,6.0,2.0,2.0,4.0,4.75,90.0,4.8,5.0,5.0,4.8,5.0,4.8
+Vaghashen,Armenia,2 story house with garden in Martuni,2010.0,,Identity not verified,72.0,regular host,Entire residential home,10.0,3.0,3.0,10.0,5.0,85.0,4.5,5.0,5.0,4.5,5.0,5.0
+Tsaghkadzor,Armenia,Chalet Nairi Garden with Russian Bath,2017.0,100.0,Identity verified,21.0,regular host,Entire chalet,6.0,2.0,2.0,4.0,4.75,90.0,4.8,5.0,5.0,4.8,5.0,4.8
+Garni,Armenia,Rural Treasure,2018.0,100.0,Identity verified,4.0,regular host,Private room in townhouse,1.0,1.0,2.0,2.0,4.75,10.0,4.8,5.0,4.8,5.0,5.0,5.0
+Sevan,Armenia,"Mountain Lake Villa, Premium room",2018.0,,Identity verified,18.0,regular host,Private room in villa,4.0,1.0,1.0,1.0,4.67,11.0,5.0,4.7,4.7,4.7,4.7,5.0
+Sevan,Armenia,Armen's B&B,2019.0,0.0,Identity verified,0.0,regular host,Private room in bed and breakfast,10.0,1.0,4.0,7.0,0.0,18.0,,,,,,
+Getamej,Armenia,"HAYA House, Chill out 20mn from Yerevan, #1",2013.0,,Identity verified,27.0,regular host,Private room in bed and breakfast,2.0,1.0,1.0,2.0,0.0,18.0,,,,,,
+Tsaghkadzor,Armenia,LUXE Villa in Tsaghkadzor,2016.0,100.0,Identity not verified,5.0,regular host,Entire villa,12.0,2.0,4.0,9.0,4.0,265.0,4.2,4.2,4.0,5.0,5.0,4.2
+Yerevan,Armenia,Azhdahak guest house B&B-20km from Yerevan city,2015.0,100.0,Identity verified,1.0,regular host,Private room in bed and breakfast,15.0,2.0,5.0,12.0,0.0,18.0,,,,,,
+Yerevan,Armenia,guesthouse vorskan 12,2019.0,,Identity not verified,1.0,regular host,Room in boutique hotel,2.0,1.0,18.0,10.0,0.0,25.0,,,,,,
+Tsaghkadzor,Armenia,"Jazzy Apartment, Kechi House Tsaghkadzor",2019.0,100.0,Identity verified,5.0,regular host,Entire rental unit,4.0,1.0,1.0,1.0,0.0,60.0,,,,,,
+Yerevan,Armenia,Guest house Vorskan12,2019.0,,Identity not verified,1.0,regular host,Room in boutique hotel,2.0,1.0,1.0,1.0,0.0,25.0,,,,,,
+Yerevan,Armenia,Sweet home,2019.0,81.0,Identity verified,1.0,regular host,Entire residential home,7.0,3.5,4.0,6.0,0.0,250.0,,,,,,
+Yerevan,Armenia,ELITE HOTEL,2021.0,25.0,Identity verified,0.0,regular host,Private room in bed and breakfast,16.0,5.0,10.0,1.0,0.0,12.0,,,,,,
+Sevan,Armenia,Mama Mia - Sevan,2017.0,64.0,Identity verified,38.0,regular host,Entire serviced apartment,3.0,1.0,1.0,1.0,3.6,25.0,3.6,4.6,4.2,4.4,4.6,3.8
+Tsaghkadzor,Armenia,Holiday home,2018.0,,Identity not verified,1.0,regular host,Entire residential home,6.0,1.0,2.0,5.0,0.0,50.0,,,,,,
+Hrazdan,Armenia,Modern Villa,2017.0,64.0,Identity verified,38.0,regular host,Entire villa,8.0,2.0,2.0,2.0,0.0,120.0,,,,,,
+Kalavan,Armenia,Large Country House with lovely views for 6 people,2016.0,100.0,Identity verified,9.0,regular host,Entire residential home,8.0,1.0,2.0,5.0,5.0,65.0,5.0,4.7,5.0,4.7,5.0,5.0
+Meghradzor,Armenia,Eco House in Meghradzor,2016.0,,Identity verified,0.0,regular host,Private room in cottage -Туры,6.0,1.0,2.0,6.0,0.0,13.0,,,,,,
+Abovyan,Armenia,Holiday home in Nurnus,2016.0,,Identity verified,0.0,regular host,Entire residential home,8.0,2.0,4.0,7.0,0.0,100.0,,,,,,
+Yerevan,Armenia,NARINE GUEST HOUSE,2016.0,,Identity not verified,13.0,regular host,Room in hotel,8.0,2.0,4.0,5.0,0.0,15.0,,,,,,
+Geghashen,Armenia,"Azhdahak B&B, Kotayk Geghashen, 20 km from Yerevan",2015.0,100.0,Identity verified,1.0,regular host,Private room in residential home,12.0,3.0,5.0,11.0,0.0,12.0,,,,,,
+Garni,Armenia,Home,2019.0,,Identity verified,0.0,regular host,Private room in residential home,3.0,1.0,2.0,2.0,0.0,14.0,,,,,,
+Yerevan,Armenia,Blue House Yerevan,2020.0,100.0,Identity verified,0.0,regular host,Entire villa,8.0,2.0,4.0,3.0,0.0,130.0,,,,,,
+Yerevan,Armenia,Blue House Yerevan,2020.0,100.0,Identity verified,0.0,regular host,Entire villa,8.0,2.0,4.0,3.0,0.0,130.0,,,,,,
+Tsaghkadzor,Armenia,"""Soul"" Guesthouse Tsaghkadzor",2020.0,100.0,Identity not verified,3.0,regular host,Entire cottage,4.0,1.0,1.0,4.0,4.33,60.0,5.0,4.3,3.7,4.0,5.0,4.3
+Banavan,Armenia,Entire Private Village House in Banavan,2019.0,0.0,Identity verified,1.0,regular host,Private room in residential home,8.0,1.0,4.0,4.0,0.0,15.0,,,,,,
+Sevan,Armenia,USSR guest house-discover the life of ancients,2019.0,,Identity verified,5.0,regular host,Private room in townhouse,7.0,1.0,1.0,7.0,5.0,21.0,5.0,4.8,5.0,4.8,5.0,5.0
+Kalavan,Armenia,Bright and Stylish House in Kalavan,2016.0,100.0,Identity verified,9.0,regular host,Private room in residential home,2.0,1.0,1.0,2.0,5.0,24.0,4.8,5.0,5.0,5.0,5.0,5.0
+Sevan,Armenia,Luxe Apartment,2020.0,100.0,Identity verified,0.0,regular host,Entire rental unit,6.0,1.0,2.0,4.0,0.0,35.0,,,,,,
+Tsaghkadzor,Armenia,Diamond Villa,2017.0,64.0,Identity verified,38.0,regular host,Entire villa,14.0,3.0,4.0,8.0,0.0,165.0,,,,,,
+Tsaghkadzor,Armenia,2 person room,2020.0,100.0,Identity verified,5.0,regular host,Private room in serviced apartment,2.0,1.0,1.0,1.0,0.0,0.0,,,,,,
+Tsaghkadzor,Armenia,Tropicana,2017.0,64.0,Identity verified,38.0,regular host,Entire residential home,8.0,3.0,3.0,6.0,0.0,205.0,,,,,,
+Tsaghkadzor,Armenia,Luxore Villa Garden,2017.0,64.0,Identity verified,38.0,regular host,Entire villa,15.0,7.0,5.0,10.0,0.0,185.0,,,,,,
+Abovyan,Armenia,Azhdahak B&B in Geghashen - 20km from Yerevan,2015.0,100.0,Identity verified,1.0,regular host,Private room in villa,15.0,3.0,5.0,19.0,0.0,14.0,,,,,,
+Sevan,Armenia,Luxe Apartment,2020.0,100.0,Identity verified,0.0,regular host,Entire rental unit,6.0,1.0,2.0,4.0,0.0,35.0,,,,,,
+Abovyan,Armenia,Azhdahak B&B in Geghashen - 20km from Yerevan,2015.0,100.0,Identity verified,1.0,regular host,Private room in villa,15.0,3.0,5.0,19.0,0.0,14.0,,,,,,
+Sevan,Armenia,"Mountain Lake Villa, Standart room*",2018.0,,Identity verified,18.0,regular host,Private room in villa,4.0,1.0,1.0,2.0,0.0,11.0,,,,,,
+Tsaghkadzor,Armenia,Tropicana,2017.0,64.0,Identity verified,38.0,regular host,Entire residential home,8.0,3.0,3.0,6.0,0.0,205.0,,,,,,
+Goght,Armenia,Bed & Breakfast 3 Gs,2014.0,100.0,Identity not verified,8.0,regular host,Private room in rental unit,6.0,4.5,3.0,4.0,4.8,49.0,5.0,5.0,5.0,4.8,4.6,4.8
+Tsaghkadzor,Armenia,Avangard,2017.0,64.0,Identity verified,38.0,regular host,Entire residential home,8.0,3.5,4.0,8.0,0.0,145.0,,,,,,
+Tsaghkadzor,Armenia,Montenegro - Villa in Tsaghkadzor,2017.0,64.0,Identity verified,38.0,regular host,Entire villa,10.0,2.5,5.0,5.0,0.0,165.0,,,,,,
+Tsaghkadzor,Armenia,Space Grey Villa,2017.0,64.0,Identity verified,38.0,regular host,Entire villa,15.0,5.0,5.0,10.0,0.0,140.0,,,,,,
+Tsaghkadzor,Armenia,Ricci Dark - Grill and Bar Villa,2017.0,64.0,Identity verified,38.0,regular host,Entire villa,8.0,2.0,4.0,7.0,0.0,285.0,,,,,,
+Tsaghkadzor,Armenia,Paradise Villa Garden,2017.0,64.0,Identity verified,38.0,regular host,Entire residential home,8.0,4.0,3.0,6.0,0.0,160.0,,,,,,
+Dzoraxbyur,Armenia,At Sarik and Nika's,2015.0,100.0,Identity not verified,6.0,regular host,Private room in bed and breakfast,2.0,1.0,1.0,2.0,4.0,24.0,4.3,4.0,4.3,4.3,4.0,3.7
+Tsaghkadzor,Armenia,BigBox,2017.0,64.0,Identity verified,38.0,regular host,Entire residential home,10.0,2.0,4.0,8.0,0.0,150.0,,,,,,
+Goght,Armenia,Camping 3 Gs,2014.0,100.0,Identity not verified,8.0,regular host,Private room in tent,6.0,4.5,3.0,0.0,5.0,28.0,5.0,5.0,5.0,5.0,5.0,5.0
+Dzoraghbyur,Armenia,Luxury house near Yerevan,2014.0,100.0,Identity verified,6.0,regular host,Entire residential home,8.0,5.5,4.0,7.0,5.0,370.0,5.0,5.0,5.0,4.8,5.0,5.0
+Tsaghkadzor,Armenia,Globe Kecharis,2017.0,64.0,Identity verified,38.0,regular host,Entire residential home,16.0,2.0,6.0,12.0,0.0,270.0,,,,,,
+Dzoraghbyur,Armenia,Luxury house near Yerevan,2014.0,100.0,Identity verified,6.0,regular host,Entire residential home,8.0,5.5,4.0,7.0,5.0,370.0,5.0,5.0,5.0,4.8,5.0,5.0
+Tsaghkadzor,Armenia,luxurious House in Armenia-Tzaghkadzor,2014.0,100.0,Identity verified,219.0,Super host,Entire residential home,10.0,4.0,4.0,16.0,0.0,0.0,,,,,,
+Tsaghkadzor,Armenia,More Deluxe,2017.0,64.0,Identity verified,38.0,regular host,Entire residential home,12.0,1.5,5.0,10.0,0.0,120.0,,,,,,
+Tsaghkadzor,Armenia,Monaco - Villa in Tsaghkadzor,2017.0,64.0,Identity verified,38.0,regular host,Entire villa,14.0,4.5,5.0,12.0,0.0,345.0,,,,,,
+Tsaghkadzor,Armenia,Marco Polo,2017.0,64.0,Identity verified,38.0,regular host,Entire residential home,7.0,2.0,3.0,6.0,0.0,102.0,,,,,,
+Tsaghkadzor,Armenia,Richard Villa Garden,2017.0,64.0,Identity verified,38.0,regular host,Entire residential home,10.0,2.0,4.0,8.0,0.0,205.0,,,,,,
+Sevan,Armenia,Armine's b&b,2017.0,64.0,Identity verified,38.0,regular host,Private room in residential home,2.0,1.0,1.0,1.0,4.33,20.0,4.7,4.5,4.3,4.7,4.3,4.7
+Tsaghkadzor,Armenia,Royal Black,2017.0,64.0,Identity verified,38.0,regular host,Entire residential home,8.0,1.0,3.0,7.0,0.0,102.0,,,,,,
+Yerevan,Armenia,House in Yerevan On City Line.,2014.0,100.0,Identity verified,11.0,regular host,Entire residential home,6.0,2.0,2.0,4.0,4.64,50.0,4.5,4.6,4.6,4.5,4.6,4.6
+Abovyan,Armenia,cozy house with a garden,2020.0,,Identity verified,0.0,regular host,Entire residential home,4.0,1.5,2.0,3.0,0.0,100.0,,,,,,
+Tsaghkadzor,Armenia,Tsaghkadzor House. Siege Cottage,2017.0,100.0,Identity not verified,2.0,regular host,Entire residential home,8.0,1.0,2.0,6.0,0.0,170.0,,,,,,
+Tsaghkadzor,Armenia,Nairi Rest House,2017.0,100.0,Identity verified,21.0,regular host,Shared room in hostel,4.0,1.0,1.0,4.0,4.25,10.0,4.2,4.4,4.4,4.4,4.4,4.4
+Dzoraghbyur,Armenia,At Sarik and Nika's,2015.0,100.0,Identity not verified,6.0,regular host,Private room in bed and breakfast,2.0,1.0,1.0,2.0,0.0,24.0,,,,,,
+Martuni,Armenia,New guest house 2 bedrooms. Security parking,2019.0,0.0,Identity not verified,8.0,regular host,Entire guesthouse,4.0,1.0,2.0,4.0,4.33,20.0,5.0,4.3,5.0,5.0,5.0,5.0
+Dzoraghbyur,Armenia,At Sarik and Nika's,2015.0,100.0,Identity not verified,6.0,regular host,Private room in bed and breakfast,2.0,1.0,1.0,2.0,0.0,24.0,,,,,,
+Sevan,Armenia,Sevan ZIM Hotel,2017.0,64.0,Identity verified,38.0,regular host,Room in aparthotel,5.0,1.0,2.0,2.0,4.67,37.0,5.0,4.7,4.0,4.0,4.0,4.3
+Martuni,Armenia,New and clean private bedroom. Security parking,2019.0,0.0,Identity not verified,8.0,regular host,Private room in guesthouse,2.0,1.0,1.0,2.0,5.0,15.0,4.8,5.0,5.0,4.8,4.6,5.0
+Sevan,Armenia,Landhaus in der Perle von Armenien,2019.0,100.0,Identity verified,1.0,regular host,Shared room in bed and breakfast,6.0,1.0,1.0,5.0,0.0,24.0,,,,,,
+Dzoraghbyur,Armenia,At Sarik and Nika's,2015.0,100.0,Identity not verified,6.0,regular host,Private room in bed and breakfast,4.0,1.0,2.0,4.0,0.0,24.0,,,,,,
+Goght,Armenia,Camping 3 Gs,2014.0,100.0,Identity not verified,8.0,regular host,Campsite,16.0,11.0,15.0,0.0,0.0,17.0,,,,,,
+Dzoraxbyur,Armenia,At Sarik and Nika's,2015.0,100.0,Identity not verified,6.0,regular host,Private room in bed and breakfast,2.0,1.0,1.0,2.0,0.0,18.0,,,,,,
+Tsaghkadzor,Armenia,Cozy apartment with mountain views,2013.0,100.0,Identity verified,14.0,regular host,Entire rental unit,4.0,1.0,1.0,1.0,4.93,50.0,4.6,5.0,5.0,4.7,4.9,4.9
+Tsaghkadzor,Armenia,A Beautiful Home in Viardo Tsakhkadzor,2017.0,80.0,Identity verified,32.0,regular host,Entire residential home  Hayk,5.0,1.5,2.0,4.0,0.0,150.0,,,,,,
+Dzoraxbyur,Armenia,Welcome to my sweet home full of art and love !,2016.0,,Identity verified,0.0,regular host,Private room in residential home,5.0,2.0,2.0,3.0,0.0,33.0,,,,,,
+Abovyan,Armenia,Home dacha,2016.0,0.0,Identity not verified,1.0,regular host,Private room in residential home,16.0,2.0,1.0,10.0,0.0,400.0,,,,,,
+Tsaghkadzor,Armenia,A Gorgeous Home in Viardo Tsakhkadzor,2017.0,80.0,Identity verified,32.0,regular host,Entire residential home  Hayk,6.0,2.0,3.0,3.0,0.0,200.0,,,,,,
+Hrazdan,Armenia,"2 room apartment in Mori Plaza, Tzakhkadzor",2015.0,,Identity verified,24.0,regular host,Entire guest suite,4.0,1.0,1.0,1.0,4.33,100.0,4.0,4.3,4.7,4.7,4.7,5.0
+Tsaghkadzor,Armenia,daily home in tsakhkadzor,2014.0,,Identity verified,1.0,regular host,Entire residential home,10.0,2.0,3.0,4.0,0.0,268.0,,,,,,

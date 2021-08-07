@@ -1,0 +1,9 @@
+city,country,name,host_since,host_response_rate,host_identity_verified,review,superhost,property_type,accomodates,number_bathroom,number_bedroom,number_beds,rating,price,cleanliness,accuracy,communication,location,check_in,value
+Odzun,Armenia,Private Villa at Odzun Monastery | Առանձնատուն,2015.0,100.0,Identity verified,27.0,Super host,Entire villa,6.0,2.0,2.0,4.0,5.0,13.0,5.0,5.0,5.0,5.0,5.0,5.0
+Alaverdi,Armenia,ARMBEE Honey Farm 2,2019.0,100.0,Identity verified,5.0,regular host,Entire chalet,2.0,1.5,1.0,2.0,5.0,30.0,5.0,5.0,5.0,5.0,5.0,5.0
+Alaverdi,Armenia,Family Guest House,2016.0,100.0,Identity verified,10.0,regular host,Private room in guest suite  Hovasapyan,5.0,1.0,1.0,7.0,4.7,11.0,5.0,5.0,4.7,4.9,4.9,4.8
+Alaverdi,Armenia,Old City Hotel Alaverdi,2019.0,0.0,Identity not verified,8.0,regular host,Room in hotel,7.0,4.0,4.0,8.0,4.5,10.0,4.5,3.2,4.5,4.5,4.7,5.0
+Alaverdi,Armenia,Приезжайте к нам отдыхать!!,2014.0,67.0,Identity not verified,5.0,regular host,Entire place,16.0,8.0,10.0,16.0,4.67,15.0,5.0,4.0,4.3,4.7,5.0,4.7
+Alaverdi,Armenia,Низкая цена за комфорт и чистоту,2019.0,0.0,Identity not verified,8.0,regular host,Private room in rental unit,8.0,5.0,4.0,13.0,0.0,10.0,,,,,,
+Odzun,Armenia,Em & Ri Guest House,2017.0,,Identity verified,1.0,regular host,Private room in residential home  & Ri,2.0,2.0,1.0,9.0,0.0,28.0,,,,,,
+Alaverdi,Armenia,Mini House,2017.0,0.0,Identity not verified,6.0,regular host,Private room in bed and breakfast,9.0,3.0,4.0,9.0,4.0,26.0,4.2,4.0,3.8,4.2,4.0,4.2

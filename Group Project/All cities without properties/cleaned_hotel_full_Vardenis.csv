@@ -1,0 +1,3 @@
+city,country,name,host_since,host_response_rate,host_identity_verified,review,superhost,property_type,accomodates,number_bathroom,number_bedroom,number_beds,rating,price,cleanliness,accuracy,communication,location,check_in,value
+Tsapatagh,Armenia,Уютный дом с видом на озеро Севан.,2016.0,100.0,Identity not verified,4.0,regular host,Private room in bed and breakfast,8.0,1.0,3.0,5.0,5.0,41.0,4.7,5.0,5.0,5.0,5.0,5.0
+Vayk,Armenia,Cozy house in wonderful nature of Karvachar,2018.0,,Identity not verified,5.0,regular host,Shared room in residential home,3.0,1.0,1.0,2.0,5.0,10.0,4.8,5.0,5.0,5.0,5.0,5.0

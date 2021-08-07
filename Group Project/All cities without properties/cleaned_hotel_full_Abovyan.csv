@@ -1,0 +1,6 @@
+city,country,name,host_since,host_response_rate,host_identity_verified,review,superhost,property_type,accomodates,number_bathroom,number_bedroom,number_beds,rating,price,cleanliness,accuracy,communication,location,check_in,value
+Yerevan,Armenia,Sweet home,2019.0,81.0,Identity verified,1.0,regular host,Entire residential home,7.0,3.5,4.0,6.0,0.0,250.0,,,,,,
+Yerevan,Armenia,Yerkir eco house,2016.0,100.0,Identity verified,281.0,Super host,Entire residential home,6.0,2.0,3.0,4.0,5.0,400.0,5.0,5.0,5.0,5.0,5.0,5.0
+Dzoraxbyur,Armenia,Welcome to my sweet home full of art and love !,2016.0,,Identity verified,0.0,regular host,Private room in residential home,5.0,2.0,2.0,3.0,0.0,33.0,,,,,,
+Getamej,Armenia,"La Maison HAYA, Chill out 20mn from Yerevan, #1",2013.0,,Identity verified,27.0,regular host,Private room in bed and breakfast,2.0,1.0,1.0,2.0,0.0,18.0,,,,,,
+Abovyan,Armenia,Home dacha,2016.0,0.0,Identity not verified,1.0,regular host,Private room in residential home,16.0,2.0,1.0,10.0,0.0,400.0,,,,,,

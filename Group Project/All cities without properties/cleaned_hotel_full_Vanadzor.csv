@@ -1,0 +1,12 @@
+city,country,name,host_since,host_response_rate,host_identity_verified,review,superhost,property_type,accomodates,number_bathroom,number_bedroom,number_beds,rating,price,cleanliness,accuracy,communication,location,check_in,value
+Vanadzor,Armenia,Artery,2019.0,100.0,Identity not verified,3.0,regular host,Entire rental unit,2.0,1.0,1.0,1.0,4.67,27.0,4.7,4.7,5.0,5.0,5.0,4.3
+Vanadzor,Armenia,Vanadzor Family Art House,2015.0,100.0,Identity not verified,12.0,regular host,Private room in residential home,4.0,1.0,1.0,4.0,4.67,16.0,4.2,4.6,4.7,4.9,4.9,4.7
+Vanadzor,Armenia,Room #1 Lori Guest House,2017.0,100.0,Identity verified,0.0,regular host,Room in boutique hotel,2.0,1.0,1.0,2.0,0.0,30.0,,,,,,
+Vanadzor,Armenia,Room #2 Lori Guest House,2017.0,100.0,Identity verified,0.0,regular host,Room in boutique hotel,3.0,1.0,1.0,2.0,0.0,36.0,,,,,,
+Vanadzor,Armenia,Vanadzor Guest House,2018.0,100.0,Identity not verified,5.0,regular host,Private room in bed and breakfast,9.0,2.0,3.0,9.0,4.4,11.0,4.4,4.6,4.6,4.2,4.0,4.2
+Vanadzor,Armenia,Bubble Park Hotel,2019.0,,Identity not verified,3.0,regular host,Private room in tent,2.0,1.0,1.0,0.0,5.0,50.0,5.0,5.0,5.0,5.0,5.0,5.0
+Vanadzor,Armenia,Hostel Room in Lori Guest House,2017.0,100.0,Identity verified,0.0,regular host,Shared room in hostel,8.0,0.0,1.0,4.0,0.0,10.0,,,,,,
+Vanadzor,Armenia,Guest Hause and Vanadzor,2019.0,100.0,Identity verified,0.0,regular host,Entire residential home,4.0,1.0,3.0,4.0,0.0,60.0,,,,,,
+Vanadzor,Armenia,Lori travel Guest house,2014.0,0.0,Identity not verified,5.0,regular host,Private room in bed and breakfast,9.0,1.0,4.0,6.0,4.75,20.0,4.5,4.8,5.0,4.8,4.8,5.0
+Pambak,Armenia,"guest house, Pambak",2019.0,100.0,Identity verified,0.0,regular host,Private room in guesthouse,3.0,1.0,1.0,,0.0,50.0,,,,,,
+Vanadzor,Armenia,Room #3 Lori Guest House,2017.0,100.0,Identity verified,0.0,regular host,Room in boutique hotel,4.0,1.0,1.0,4.0,0.0,40.0,,,,,,
